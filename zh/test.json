@@ -1,0 +1,3842 @@
+[
+    {
+        "uid": "test_0.wav",
+        "source_path": "./test/38_5754/38_5754_20170917213653.wav",
+        "target_path": "./test/38_5781/38_5781_20170915160802.wav",
+        "source_text": "我都不是那种骗人的人你说对吗好了晚上再谈吧",
+        "target_text": "歌词唱得是啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_1.wav",
+        "source_path": "./test/38_5754/38_5754_20170917213653.wav",
+        "target_path": "./test/38_5883/38_5883_20170917131704.wav",
+        "source_text": "我都不是那种骗人的人你说对吗好了晚上再谈吧",
+        "target_text": "天气不好会导致心情不好吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_2.wav",
+        "source_path": "./test/38_5754/38_5754_20170917213653.wav",
+        "target_path": "./test/38_5788/38_5788_20170916224427.wav",
+        "source_text": "我都不是那种骗人的人你说对吗好了晚上再谈吧",
+        "target_text": "我要换到工作模式",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_3.wav",
+        "source_path": "./test/38_5754/38_5754_20170917213653.wav",
+        "target_path": "./test/38_5794/38_5794_20170915215256.wav",
+        "source_text": "我都不是那种骗人的人你说对吗好了晚上再谈吧",
+        "target_text": "放一首苏丹的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_4.wav",
+        "source_path": "./test/38_5781/38_5781_20170915165529.wav",
+        "target_path": "./test/38_5859/38_5859_20170918215328.wav",
+        "source_text": "来个张信哲的歌",
+        "target_text": "老赵我在加五包渗炭螺丝长度你就按照你平时用的那种就",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_5.wav",
+        "source_path": "./test/38_5781/38_5781_20170915165529.wav",
+        "target_path": "./test/38_5741/38_5741_20170914220954.wav",
+        "source_text": "来个张信哲的歌",
+        "target_text": "恭喜你呀恭喜你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_6.wav",
+        "source_path": "./test/38_5781/38_5781_20170915165529.wav",
+        "target_path": "./test/38_5798/38_5798_20170916013657.wav",
+        "source_text": "来个张信哲的歌",
+        "target_text": "叫你解释一下你就解释一下吧",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_7.wav",
+        "source_path": "./test/38_5781/38_5781_20170915165529.wav",
+        "target_path": "./test/38_5753/38_5753_20170916170113.wav",
+        "source_text": "来个张信哲的歌",
+        "target_text": "眯眯眯眯眯",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_8.wav",
+        "source_path": "./test/38_5741/38_5741_20170914205403.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202446.wav",
+        "source_text": "算了，撤回",
+        "target_text": "听音乐不错休闲哈嘻",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_9.wav",
+        "source_path": "./test/38_5741/38_5741_20170914205403.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "算了，撤回",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_10.wav",
+        "source_path": "./test/38_5741/38_5741_20170914205403.wav",
+        "target_path": "./test/38_5889/38_5889_20170917221000.wav",
+        "source_text": "算了，撤回",
+        "target_text": "请播一个孙楠最新的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_11.wav",
+        "source_path": "./test/38_5741/38_5741_20170914205403.wav",
+        "target_path": "./test/38_5718/38_5718_20170914202937.wav",
+        "source_text": "算了，撤回",
+        "target_text": "陕西省千阳县的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_12.wav",
+        "source_path": "./test/38_5733/38_5733_20170915110335.wav",
+        "target_path": "./test/38_5754/38_5754_20170917215402.wav",
+        "source_text": "听听歌曲修今生",
+        "target_text": "丁宏伟丁宏",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_13.wav",
+        "source_path": "./test/38_5733/38_5733_20170915110335.wav",
+        "target_path": "./test/38_5718/38_5718_20170914202638.wav",
+        "source_text": "听听歌曲修今生",
+        "target_text": "最近好烦呀想听抒情悲伤的音乐有谁能推荐几首谢了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_14.wav",
+        "source_path": "./test/38_5733/38_5733_20170915110335.wav",
+        "target_path": "./test/38_5814/38_5814_20170916102533.wav",
+        "source_text": "听听歌曲修今生",
+        "target_text": "最近比较烦想听伤感歌曲了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_15.wav",
+        "source_path": "./test/38_5733/38_5733_20170915110335.wav",
+        "target_path": "./test/38_5771/38_5771_20170915155955.wav",
+        "source_text": "听听歌曲修今生",
+        "target_text": "纵贯线",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_16.wav",
+        "source_path": "./test/38_5802/38_5802_20170916132351.wav",
+        "target_path": "./test/38_5867/38_5867_20170917122559.wav",
+        "source_text": "播放陈淑桦的歌",
+        "target_text": "谁能给我推荐几首比较适合空间的音乐",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_17.wav",
+        "source_path": "./test/38_5802/38_5802_20170916132351.wav",
+        "target_path": "./test/38_5888/38_5888_20170917205420.wav",
+        "source_text": "播放陈淑桦的歌",
+        "target_text": "播放一仆二主",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_18.wav",
+        "source_path": "./test/38_5802/38_5802_20170916132351.wav",
+        "target_path": "./test/38_5727/38_5727_20170914193737.wav",
+        "source_text": "播放陈淑桦的歌",
+        "target_text": "陪我聊会儿天好吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_19.wav",
+        "source_path": "./test/38_5802/38_5802_20170916132351.wav",
+        "target_path": "./test/38_5781/38_5781_20170915165650.wav",
+        "source_text": "播放陈淑桦的歌",
+        "target_text": "不唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_20.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5886/38_5886_20170917195104.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "播放傻逼",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_21.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5722/38_5722_20170915094709.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "下班回来时候帮我买一张流量卡我他妈套餐没办法上用了一百多块钱上网",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_22.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5856/38_5856_20170916204634.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "芳芳你下班了吧你别急着吃饭晚上咱们一起吃我给小雨说好了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_23.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5733/38_5733_20170915131052.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "我也是梅州的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_24.wav",
+        "source_path": "./test/38_5859/38_5859_20170917225122.wav",
+        "target_path": "./test/38_5852/38_5852_20170916200015.wav",
+        "source_text": "给我播一个赵传唱的歌",
+        "target_text": "来个许嵩演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_25.wav",
+        "source_path": "./test/38_5859/38_5859_20170917225122.wav",
+        "target_path": "./test/38_5744/38_5744_20170915160714.wav",
+        "source_text": "给我播一个赵传唱的歌",
+        "target_text": "要么改日",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_26.wav",
+        "source_path": "./test/38_5859/38_5859_20170917225122.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162727.wav",
+        "source_text": "给我播一个赵传唱的歌",
+        "target_text": "我只有一个手",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_27.wav",
+        "source_path": "./test/38_5859/38_5859_20170917225122.wav",
+        "target_path": "./test/38_5836/38_5836_20170916202729.wav",
+        "source_text": "给我播一个赵传唱的歌",
+        "target_text": "听个永宁",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_28.wav",
+        "source_path": "./test/38_5739/38_5739_20170914223613.wav",
+        "target_path": "./test/38_5733/38_5733_20170915105747.wav",
+        "source_text": "和你说了好几遍了",
+        "target_text": "不放一下唉声叹气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_29.wav",
+        "source_path": "./test/38_5739/38_5739_20170914223613.wav",
+        "target_path": "./test/38_5870/38_5870_20170917091317.wav",
+        "source_text": "和你说了好几遍了",
+        "target_text": "请给我来一首萧敬腾的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_30.wav",
+        "source_path": "./test/38_5739/38_5739_20170914223613.wav",
+        "target_path": "./test/38_5720/38_5720_20170916162427.wav",
+        "source_text": "和你说了好几遍了",
+        "target_text": "请给我播放王贵与安娜第三十四集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_31.wav",
+        "source_path": "./test/38_5739/38_5739_20170914223613.wav",
+        "target_path": "./test/38_5852/38_5852_20170916200015.wav",
+        "source_text": "和你说了好几遍了",
+        "target_text": "来个许嵩演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_32.wav",
+        "source_path": "./test/38_5888/38_5888_20170917210122.wav",
+        "target_path": "./test/38_5733/38_5733_20170915131052.wav",
+        "source_text": "明天黑河的天气怎么样",
+        "target_text": "我也是梅州的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_33.wav",
+        "source_path": "./test/38_5888/38_5888_20170917210122.wav",
+        "target_path": "./test/ttt/clap_16k_epd2.wav",
+        "source_text": "明天黑河的天气怎么样",
+        "target_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_34.wav",
+        "source_path": "./test/38_5888/38_5888_20170917210122.wav",
+        "target_path": "./test/38_5727/38_5727_20170914193737.wav",
+        "source_text": "明天黑河的天气怎么样",
+        "target_text": "陪我聊会儿天好吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_35.wav",
+        "source_path": "./test/38_5888/38_5888_20170917210122.wav",
+        "target_path": "./test/38_5781/38_5781_20170915165650.wav",
+        "source_text": "明天黑河的天气怎么样",
+        "target_text": "不唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_36.wav",
+        "source_path": "./test/38_5721/38_5721_20170915090424.wav",
+        "target_path": "./test/38_5866/38_5866_20170917105242.wav",
+        "source_text": "一分也没了",
+        "target_text": "订房间的时候涠洲岛的人告诉我有台风我想退船票",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_37.wav",
+        "source_path": "./test/38_5721/38_5721_20170915090424.wav",
+        "target_path": "./test/38_5866/38_5866_20170917111411.wav",
+        "source_text": "一分也没了",
+        "target_text": "请给我播放岁月第八集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_38.wav",
+        "source_path": "./test/38_5721/38_5721_20170915090424.wav",
+        "target_path": "./test/38_5753/38_5753_20170916165429.wav",
+        "source_text": "一分也没了",
+        "target_text": "已进入大同",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_39.wav",
+        "source_path": "./test/38_5721/38_5721_20170915090424.wav",
+        "target_path": "./test/38_5754/38_5754_20170917215402.wav",
+        "source_text": "一分也没了",
+        "target_text": "丁宏伟丁宏",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_40.wav",
+        "source_path": "./test/38_5799/38_5799_20170915223504.wav",
+        "target_path": "./test/38_5751/38_5751_20170915121525.wav",
+        "source_text": "就是要远离高温对吧",
+        "target_text": "燕儿昆明下大雪了好冷",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_41.wav",
+        "source_path": "./test/38_5799/38_5799_20170915223504.wav",
+        "target_path": "./test/38_5887/38_5887_20170917204249.wav",
+        "source_text": "就是要远离高温对吧",
+        "target_text": "回来办身份证",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_42.wav",
+        "source_path": "./test/38_5799/38_5799_20170915223504.wav",
+        "target_path": "./test/38_5837/38_5837_20170916155523.wav",
+        "source_text": "就是要远离高温对吧",
+        "target_text": "放一下我在",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_43.wav",
+        "source_path": "./test/38_5799/38_5799_20170915223504.wav",
+        "target_path": "./test/38_5867/38_5867_20170917122559.wav",
+        "source_text": "就是要远离高温对吧",
+        "target_text": "谁能给我推荐几首比较适合空间的音乐",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_44.wav",
+        "source_path": "./test/38_5867/38_5867_20170917094148.wav",
+        "target_path": "./test/38_5798/38_5798_20170916013657.wav",
+        "source_text": "悬疑故事",
+        "target_text": "叫你解释一下你就解释一下吧",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_45.wav",
+        "source_path": "./test/38_5867/38_5867_20170917094148.wav",
+        "target_path": "./test/38_5870/38_5870_20170917091317.wav",
+        "source_text": "悬疑故事",
+        "target_text": "请给我来一首萧敬腾的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_46.wav",
+        "source_path": "./test/38_5867/38_5867_20170917094148.wav",
+        "target_path": "./test/38_5741/38_5741_20170914210259.wav",
+        "source_text": "悬疑故事",
+        "target_text": "谭咏麟今年几岁发过几张专辑有几首单曲开了几场演唱会",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_47.wav",
+        "source_path": "./test/38_5867/38_5867_20170917094148.wav",
+        "target_path": "./test/38_5858/38_5858_20170919124843.wav",
+        "source_text": "悬疑故事",
+        "target_text": "告诉你一个好玩的东西啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_48.wav",
+        "source_path": "./test/38_5788/38_5788_20170917223756.wav",
+        "target_path": "./test/38_5721/38_5721_20170914201630.wav",
+        "source_text": "我过两天回家",
+        "target_text": "网络歌手许嵩有哪些歌曲啊推荐啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_49.wav",
+        "source_path": "./test/38_5788/38_5788_20170917223756.wav",
+        "target_path": "./test/38_5856/38_5856_20170916204634.wav",
+        "source_text": "我过两天回家",
+        "target_text": "芳芳你下班了吧你别急着吃饭晚上咱们一起吃我给小雨说好了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_50.wav",
+        "source_path": "./test/38_5788/38_5788_20170917223756.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202426.wav",
+        "source_text": "我过两天回家",
+        "target_text": "除了自命不凡和爱是一种幸福",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_51.wav",
+        "source_path": "./test/38_5788/38_5788_20170917223756.wav",
+        "target_path": "./test/38_5799/38_5799_20170916102041.wav",
+        "source_text": "我过两天回家",
+        "target_text": "哦你后天回来啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_52.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./test/38_5867/38_5867_20170917123418.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "告诉我湖南明天的天气怎么样",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_53.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100228.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "但我对她没感觉",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_54.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./test/38_5753/38_5753_20170916170113.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "眯眯眯眯眯",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_55.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_56.wav",
+        "source_path": "./test/38_5725/38_5725_20170915092358.wav",
+        "target_path": "./test/38_5718/38_5718_20170915103206.wav",
+        "source_text": "播放血色湘西第八集",
+        "target_text": "肺结核能抽烟吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_57.wav",
+        "source_path": "./test/38_5725/38_5725_20170915092358.wav",
+        "target_path": "./test/38_5752/38_5752_20170915223952.wav",
+        "source_text": "播放血色湘西第八集",
+        "target_text": "请来一首王菲的专辑",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_58.wav",
+        "source_path": "./test/38_5725/38_5725_20170915092358.wav",
+        "target_path": "./test/38_5889/38_5889_20170917221000.wav",
+        "source_text": "播放血色湘西第八集",
+        "target_text": "请播一个孙楠最新的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_59.wav",
+        "source_path": "./test/38_5725/38_5725_20170915092358.wav",
+        "target_path": "./test/38_5859/38_5859_20170918220452.wav",
+        "source_text": "播放血色湘西第八集",
+        "target_text": "家里电话还打不通晚上再打",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_60.wav",
+        "source_path": "./test/38_5814/38_5814_20170916131843.wav",
+        "target_path": "./test/38_5889/38_5889_20170917221000.wav",
+        "source_text": "大晴天的打雷了",
+        "target_text": "请播一个孙楠最新的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_61.wav",
+        "source_path": "./test/38_5814/38_5814_20170916131843.wav",
+        "target_path": "./test/38_5802/38_5802_20170916133512.wav",
+        "source_text": "大晴天的打雷了",
+        "target_text": "请给我来个苏永康唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_62.wav",
+        "source_path": "./test/38_5814/38_5814_20170916131843.wav",
+        "target_path": "./test/38_5856/38_5856_20170916204634.wav",
+        "source_text": "大晴天的打雷了",
+        "target_text": "芳芳你下班了吧你别急着吃饭晚上咱们一起吃我给小雨说好了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_63.wav",
+        "source_path": "./test/38_5814/38_5814_20170916131843.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100228.wav",
+        "source_text": "大晴天的打雷了",
+        "target_text": "但我对她没感觉",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_64.wav",
+        "source_path": "./test/38_5837/38_5837_20170916203408.wav",
+        "target_path": "./test/38_5883/38_5883_20170917134131.wav",
+        "source_text": "有一首歌曲歌中我不愿就这样离开",
+        "target_text": "许嵩的专辑自定义除了网上订购还可以在哪里买到",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_65.wav",
+        "source_path": "./test/38_5837/38_5837_20170916203408.wav",
+        "target_path": "./test/38_5890/38_5890_20170918125955.wav",
+        "source_text": "有一首歌曲歌中我不愿就这样离开",
+        "target_text": "零下几度吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_66.wav",
+        "source_path": "./test/38_5837/38_5837_20170916203408.wav",
+        "target_path": "./test/38_5887/38_5887_20170917204249.wav",
+        "source_text": "有一首歌曲歌中我不愿就这样离开",
+        "target_text": "回来办身份证",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_67.wav",
+        "source_path": "./test/38_5837/38_5837_20170916203408.wav",
+        "target_path": "./test/38_5771/38_5771_20170915165009.wav",
+        "source_text": "有一首歌曲歌中我不愿就这样离开",
+        "target_text": "那老秦晚上也可以来的呀",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_68.wav",
+        "source_path": "./test/38_5734/38_5734_20170914201634.wav",
+        "target_path": "./test/38_5886/38_5886_20170917200357.wav",
+        "source_text": "播放春分",
+        "target_text": "一生为你感动",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_69.wav",
+        "source_path": "./test/38_5734/38_5734_20170914201634.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "播放春分",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_70.wav",
+        "source_path": "./test/38_5734/38_5734_20170914201634.wav",
+        "target_path": "./test/38_5866/38_5866_20170917105242.wav",
+        "source_text": "播放春分",
+        "target_text": "订房间的时候涠洲岛的人告诉我有台风我想退船票",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_71.wav",
+        "source_path": "./test/38_5734/38_5734_20170914201634.wav",
+        "target_path": "./test/38_5723/38_5723_20170914202655.wav",
+        "source_text": "播放春分",
+        "target_text": "福建省泉州市的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_72.wav",
+        "source_path": "./test/38_5866/38_5866_20170917104212.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "下雨了我要去给老公送伞了",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_73.wav",
+        "source_path": "./test/38_5866/38_5866_20170917104212.wav",
+        "target_path": "./test/38_5858/38_5858_20170917184619.wav",
+        "source_text": "下雨了我要去给老公送伞了",
+        "target_text": "最新",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_74.wav",
+        "source_path": "./test/38_5866/38_5866_20170917104212.wav",
+        "target_path": "./test/38_5725/38_5725_20170914195603.wav",
+        "source_text": "下雨了我要去给老公送伞了",
+        "target_text": "你好这音乐是周杰伦蒲公英的商定如知足请采取谜底感谢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_75.wav",
+        "source_path": "./test/38_5866/38_5866_20170917104212.wav",
+        "target_path": "./test/38_5753/38_5753_20170916170113.wav",
+        "source_text": "下雨了我要去给老公送伞了",
+        "target_text": "眯眯眯眯眯",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_76.wav",
+        "source_path": "./test/38_5870/38_5870_20170917085725.wav",
+        "target_path": "./test/38_5751/38_5751_20170915121525.wav",
+        "source_text": "播放亲亲猪猪宝贝",
+        "target_text": "燕儿昆明下大雪了好冷",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_77.wav",
+        "source_path": "./test/38_5870/38_5870_20170917085725.wav",
+        "target_path": "./test/38_5771/38_5771_20170915124358.wav",
+        "source_text": "播放亲亲猪猪宝贝",
+        "target_text": "我想知道电视节的预告",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_78.wav",
+        "source_path": "./test/38_5870/38_5870_20170917085725.wav",
+        "target_path": "./test/38_5752/38_5752_20170915223952.wav",
+        "source_text": "播放亲亲猪猪宝贝",
+        "target_text": "请来一首王菲的专辑",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_79.wav",
+        "source_path": "./test/38_5870/38_5870_20170917085725.wav",
+        "target_path": "./test/ttt/602.wav",
+        "source_text": "播放亲亲猪猪宝贝",
+        "target_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_80.wav",
+        "source_path": "./test/38_5716/38_5716_20170914202647.wav",
+        "target_path": "./test/38_5754/38_5754_20170915143652.wav",
+        "source_text": "叫他明天早上差五分儿九点去机场",
+        "target_text": "大概在多少钱上下最低多少最高多少",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_81.wav",
+        "source_path": "./test/38_5716/38_5716_20170914202647.wav",
+        "target_path": "./test/38_5859/38_5859_20170918220452.wav",
+        "source_text": "叫他明天早上差五分儿九点去机场",
+        "target_text": "家里电话还打不通晚上再打",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_82.wav",
+        "source_path": "./test/38_5716/38_5716_20170914202647.wav",
+        "target_path": "./test/38_5781/38_5781_20170915165650.wav",
+        "source_text": "叫他明天早上差五分儿九点去机场",
+        "target_text": "不唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_83.wav",
+        "source_path": "./test/38_5716/38_5716_20170914202647.wav",
+        "target_path": "./test/38_5866/38_5866_20170917105242.wav",
+        "source_text": "叫他明天早上差五分儿九点去机场",
+        "target_text": "订房间的时候涠洲岛的人告诉我有台风我想退船票",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_84.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5771/38_5771_20170915165009.wav",
+        "source_text": "你听写他吧",
+        "target_text": "那老秦晚上也可以来的呀",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_85.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100228.wav",
+        "source_text": "你听写他吧",
+        "target_text": "但我对她没感觉",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_86.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5888/38_5888_20170917205420.wav",
+        "source_text": "你听写他吧",
+        "target_text": "播放一仆二主",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_87.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5870/38_5870_20170917091317.wav",
+        "source_text": "你听写他吧",
+        "target_text": "请给我来一首萧敬腾的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_88.wav",
+        "source_path": "./test/38_5798/38_5798_20170915235108.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100243.wav",
+        "source_text": "播放逃亡",
+        "target_text": "你老公也是山东的吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_89.wav",
+        "source_path": "./test/38_5798/38_5798_20170915235108.wav",
+        "target_path": "./test/38_5799/38_5799_20170915222858.wav",
+        "source_text": "播放逃亡",
+        "target_text": "请问对一个初学声乐的人应该怎样尽快做到真假声混合并且气息足够",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_90.wav",
+        "source_path": "./test/38_5798/38_5798_20170915235108.wav",
+        "target_path": "./test/38_5798/38_5798_20170915223847.wav",
+        "source_text": "播放逃亡",
+        "target_text": "调整座位到正常",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_91.wav",
+        "source_path": "./test/38_5798/38_5798_20170915235108.wav",
+        "target_path": "./test/38_5794/38_5794_20170916131623.wav",
+        "source_text": "播放逃亡",
+        "target_text": "我就要我老婆别的不要",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_92.wav",
+        "source_path": "./test/38_5724/38_5724_20170915094042.wav",
+        "target_path": "./test/38_5856/38_5856_20170916201101.wav",
+        "source_text": "几点回家老公",
+        "target_text": "我想听后来这首歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_93.wav",
+        "source_path": "./test/38_5724/38_5724_20170915094042.wav",
+        "target_path": "./test/38_5721/38_5721_20170914195759.wav",
+        "source_text": "几点回家老公",
+        "target_text": "可是平时这个温度也没觉得这么冷啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_94.wav",
+        "source_path": "./test/38_5724/38_5724_20170915094042.wav",
+        "target_path": "./test/38_5886/38_5886_20170917203035.wav",
+        "source_text": "几点回家老公",
+        "target_text": "我自己煮了点粥喝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_95.wav",
+        "source_path": "./test/38_5724/38_5724_20170915094042.wav",
+        "target_path": "./test/38_5725/38_5725_20170914195603.wav",
+        "source_text": "几点回家老公",
+        "target_text": "你好这音乐是周杰伦蒲公英的商定如知足请采取谜底感谢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_96.wav",
+        "source_path": "./test/38_5752/38_5752_20170915230341.wav",
+        "target_path": "./test/38_5733/38_5733_20170914204608.wav",
+        "source_text": "我直接找他",
+        "target_text": "这种天气你喜欢吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_97.wav",
+        "source_path": "./test/38_5752/38_5752_20170915230341.wav",
+        "target_path": "./test/38_5723/38_5723_20170914203433.wav",
+        "source_text": "我直接找他",
+        "target_text": "那浙江的天气呢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_98.wav",
+        "source_path": "./test/38_5752/38_5752_20170915230341.wav",
+        "target_path": "./test/38_5754/38_5754_20170916183616.wav",
+        "source_text": "我直接找他",
+        "target_text": "请播一个沙宝亮的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_99.wav",
+        "source_path": "./test/38_5752/38_5752_20170915230341.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202446.wav",
+        "source_text": "我直接找他",
+        "target_text": "听音乐不错休闲哈嘻",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_100.wav",
+        "source_path": "./test/38_5735/38_5735_20170916154507.wav",
+        "target_path": "./test/38_5781/38_5781_20170915165650.wav",
+        "source_text": "播放董大为的歌曲",
+        "target_text": "不唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_101.wav",
+        "source_path": "./test/38_5735/38_5735_20170916154507.wav",
+        "target_path": "./test/38_5733/38_5733_20170915105747.wav",
+        "source_text": "播放董大为的歌曲",
+        "target_text": "不放一下唉声叹气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_102.wav",
+        "source_path": "./test/38_5735/38_5735_20170916154507.wav",
+        "target_path": "./test/38_5744/38_5744_20170915160714.wav",
+        "source_text": "播放董大为的歌曲",
+        "target_text": "要么改日",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_103.wav",
+        "source_path": "./test/38_5735/38_5735_20170916154507.wav",
+        "target_path": "./test/38_5771/38_5771_20170915155955.wav",
+        "source_text": "播放董大为的歌曲",
+        "target_text": "纵贯线",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_104.wav",
+        "source_path": "./test/38_5858/38_5858_20170917213917.wav",
+        "target_path": "./test/38_5859/38_5859_20170918220452.wav",
+        "source_text": "别吃太多月饼",
+        "target_text": "家里电话还打不通晚上再打",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_105.wav",
+        "source_path": "./test/38_5858/38_5858_20170917213917.wav",
+        "target_path": "./test/38_5799/38_5799_20170915222045.wav",
+        "source_text": "别吃太多月饼",
+        "target_text": "放一下生生世世爱",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_106.wav",
+        "source_path": "./test/38_5858/38_5858_20170917213917.wav",
+        "target_path": "./test/38_5718/38_5718_20170914202638.wav",
+        "source_text": "别吃太多月饼",
+        "target_text": "最近好烦呀想听抒情悲伤的音乐有谁能推荐几首谢了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_107.wav",
+        "source_path": "./test/38_5858/38_5858_20170917213917.wav",
+        "target_path": "./test/38_5741/38_5741_20170914210259.wav",
+        "source_text": "别吃太多月饼",
+        "target_text": "谭咏麟今年几岁发过几张专辑有几首单曲开了几场演唱会",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_108.wav",
+        "source_path": "./test/38_5890/38_5890_20170918132905.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "请播一个齐豫演唱的歌",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_109.wav",
+        "source_path": "./test/38_5890/38_5890_20170918132905.wav",
+        "target_path": "./test/38_5723/38_5723_20170914200322.wav",
+        "source_text": "请播一个齐豫演唱的歌",
+        "target_text": "播放你偷走了我的心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_110.wav",
+        "source_path": "./test/38_5890/38_5890_20170918132905.wav",
+        "target_path": "./test/38_5852/38_5852_20170916202142.wav",
+        "source_text": "请播一个齐豫演唱的歌",
+        "target_text": "请帮我切换到约会模式",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_111.wav",
+        "source_path": "./test/38_5890/38_5890_20170918132905.wav",
+        "target_path": "./test/38_5723/38_5723_20170914202655.wav",
+        "source_text": "请播一个齐豫演唱的歌",
+        "target_text": "福建省泉州市的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_112.wav",
+        "source_path": "./test/38_5771/38_5771_20170915132158.wav",
+        "target_path": "./test/38_5814/38_5814_20170916162649.wav",
+        "source_text": "别说我的眼泪你无所谓竖笛简谱",
+        "target_text": "你们老大真够讨厌的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_113.wav",
+        "source_path": "./test/38_5771/38_5771_20170915132158.wav",
+        "target_path": "./test/38_5722/38_5722_20170915092330.wav",
+        "source_text": "别说我的眼泪你无所谓竖笛简谱",
+        "target_text": "来首水木年华演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_114.wav",
+        "source_path": "./test/38_5771/38_5771_20170915132158.wav",
+        "target_path": "./test/ttt/clap_16k_epd2.wav",
+        "source_text": "别说我的眼泪你无所谓竖笛简谱",
+        "target_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_115.wav",
+        "source_path": "./test/38_5771/38_5771_20170915132158.wav",
+        "target_path": "./test/38_5722/38_5722_20170915094709.wav",
+        "source_text": "别说我的眼泪你无所谓竖笛简谱",
+        "target_text": "下班回来时候帮我买一张流量卡我他妈套餐没办法上用了一百多块钱上网",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_116.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/38_5752/38_5752_20170915162753.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "百度搜索新闻",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_117.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/38_5890/38_5890_20170918125955.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "零下几度吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_118.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/38_5735/38_5735_20170916154614.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "歌手专辑名旋律要比较缓和的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_119.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/38_5890/38_5890_20170918133058.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "给我来个沙宝亮的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_120.wav",
+        "source_path": "./test/38_5883/38_5883_20170917132741.wav",
+        "target_path": "./test/38_5870/38_5870_20170917090041.wav",
+        "source_text": "高潮部分听着特别耳熟就是想不起来了",
+        "target_text": "听一首迁徙",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_121.wav",
+        "source_path": "./test/38_5883/38_5883_20170917132741.wav",
+        "target_path": "./test/38_5735/38_5735_20170916154614.wav",
+        "source_text": "高潮部分听着特别耳熟就是想不起来了",
+        "target_text": "歌手专辑名旋律要比较缓和的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_122.wav",
+        "source_path": "./test/38_5883/38_5883_20170917132741.wav",
+        "target_path": "./test/38_5741/38_5741_20170914222558.wav",
+        "source_text": "高潮部分听着特别耳熟就是想不起来了",
+        "target_text": "我想也是这样的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_123.wav",
+        "source_path": "./test/38_5883/38_5883_20170917132741.wav",
+        "target_path": "./test/38_5725/38_5725_20170914204124.wav",
+        "source_text": "高潮部分听着特别耳熟就是想不起来了",
+        "target_text": "如果现在两人彼此相爱到最后能在一起吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_124.wav",
+        "source_path": "./test/38_5727/38_5727_20170915161853.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202426.wav",
+        "source_text": "我现在也不饿",
+        "target_text": "除了自命不凡和爱是一种幸福",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_125.wav",
+        "source_path": "./test/38_5727/38_5727_20170915161853.wav",
+        "target_path": "./test/38_5883/38_5883_20170917134131.wav",
+        "source_text": "我现在也不饿",
+        "target_text": "许嵩的专辑自定义除了网上订购还可以在哪里买到",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_126.wav",
+        "source_path": "./test/38_5727/38_5727_20170915161853.wav",
+        "target_path": "./test/38_5753/38_5753_20170916165257.wav",
+        "source_text": "我现在也不饿",
+        "target_text": "叫上星他两口子啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_127.wav",
+        "source_path": "./test/38_5727/38_5727_20170915161853.wav",
+        "target_path": "./test/38_5725/38_5725_20170914195603.wav",
+        "source_text": "我现在也不饿",
+        "target_text": "你好这音乐是周杰伦蒲公英的商定如知足请采取谜底感谢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_128.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202341.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "播放雪莉的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_129.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_130.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5734/38_5734_20170914195132.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "座位靠前",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_131.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5723/38_5723_20170914202655.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "福建省泉州市的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_132.wav",
+        "source_path": "./test/38_5836/38_5836_20170916202556.wav",
+        "target_path": "./test/38_5722/38_5722_20170915092319.wav",
+        "source_text": "很想听音乐凡人歌",
+        "target_text": "给我播放历史的天空第九集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_133.wav",
+        "source_path": "./test/38_5836/38_5836_20170916202556.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "很想听音乐凡人歌",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_134.wav",
+        "source_path": "./test/38_5836/38_5836_20170916202556.wav",
+        "target_path": "./test/38_5753/38_5753_20170916170113.wav",
+        "source_text": "很想听音乐凡人歌",
+        "target_text": "眯眯眯眯眯",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_135.wav",
+        "source_path": "./test/38_5836/38_5836_20170916202556.wav",
+        "target_path": "./test/38_5722/38_5722_20170915092330.wav",
+        "source_text": "很想听音乐凡人歌",
+        "target_text": "来首水木年华演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_136.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./test/38_5727/38_5727_20170914195343.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "请注意啦快回答好听就有奖哟快告诉我啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_137.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./test/38_5744/38_5744_20170915161219.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "丸子晚上上课在哪上",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_138.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./test/38_5798/38_5798_20170916012511.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "我下山啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_139.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./test/38_5723/38_5723_20170914200322.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "播放你偷走了我的心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_140.wav",
+        "source_path": "./test/38_5852/38_5852_20170916203201.wav",
+        "target_path": "./test/38_5856/38_5856_20170916195411.wav",
+        "source_text": "路边有个男的会带你找车位",
+        "target_text": "那大天朝天气如何",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_141.wav",
+        "source_path": "./test/38_5852/38_5852_20170916203201.wav",
+        "target_path": "./test/ttt/clap_16k_epd2.wav",
+        "source_text": "路边有个男的会带你找车位",
+        "target_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_142.wav",
+        "source_path": "./test/38_5852/38_5852_20170916203201.wav",
+        "target_path": "./test/38_5836/38_5836_20170916202729.wav",
+        "source_text": "路边有个男的会带你找车位",
+        "target_text": "听个永宁",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_143.wav",
+        "source_path": "./test/38_5852/38_5852_20170916203201.wav",
+        "target_path": "./test/38_5752/38_5752_20170915162753.wav",
+        "source_text": "路边有个男的会带你找车位",
+        "target_text": "百度搜索新闻",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_144.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./test/38_5752/38_5752_20170915223952.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "请来一首王菲的专辑",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_145.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202446.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "听音乐不错休闲哈嘻",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_146.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./test/38_5794/38_5794_20170916131623.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "我就要我老婆别的不要",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_147.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./test/38_5744/38_5744_20170915155850.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "请给我来一个真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_148.wav",
+        "source_path": "./test/38_5889/38_5889_20170917221656.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "请给我来一首周华健的专辑",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_149.wav",
+        "source_path": "./test/38_5889/38_5889_20170917221656.wav",
+        "target_path": "./test/38_5733/38_5733_20170915131052.wav",
+        "source_text": "请给我来一首周华健的专辑",
+        "target_text": "我也是梅州的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_150.wav",
+        "source_path": "./test/38_5889/38_5889_20170917221656.wav",
+        "target_path": "./test/38_5886/38_5886_20170917203035.wav",
+        "source_text": "请给我来一首周华健的专辑",
+        "target_text": "我自己煮了点粥喝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_151.wav",
+        "source_path": "./test/38_5889/38_5889_20170917221656.wav",
+        "target_path": "./test/38_5883/38_5883_20170917134131.wav",
+        "source_text": "请给我来一首周华健的专辑",
+        "target_text": "许嵩的专辑自定义除了网上订购还可以在哪里买到",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_152.wav",
+        "source_path": "./test/38_5886/38_5886_20170917193526.wav",
+        "target_path": "./test/38_5859/38_5859_20170918220452.wav",
+        "source_text": "提醒他后天早上去开会",
+        "target_text": "家里电话还打不通晚上再打",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_153.wav",
+        "source_path": "./test/38_5886/38_5886_20170917193526.wav",
+        "target_path": "./test/38_5724/38_5724_20170915085844.wav",
+        "source_text": "提醒他后天早上去开会",
+        "target_text": "打开微微一笑很倾城",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_154.wav",
+        "source_path": "./test/38_5886/38_5886_20170917193526.wav",
+        "target_path": "./test/38_5888/38_5888_20170917201639.wav",
+        "source_text": "提醒他后天早上去开会",
+        "target_text": "帮我给记事本加密",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_155.wav",
+        "source_path": "./test/38_5886/38_5886_20170917193526.wav",
+        "target_path": "./test/38_5754/38_5754_20170916183616.wav",
+        "source_text": "提醒他后天早上去开会",
+        "target_text": "请播一个沙宝亮的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_156.wav",
+        "source_path": "./test/38_5744/38_5744_20170915102006.wav",
+        "target_path": "./test/38_5723/38_5723_20170914203433.wav",
+        "source_text": "明天是不是晴天啊",
+        "target_text": "那浙江的天气呢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_157.wav",
+        "source_path": "./test/38_5744/38_5744_20170915102006.wav",
+        "target_path": "./test/38_5886/38_5886_20170917203035.wav",
+        "source_text": "明天是不是晴天啊",
+        "target_text": "我自己煮了点粥喝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_158.wav",
+        "source_path": "./test/38_5744/38_5744_20170915102006.wav",
+        "target_path": "./test/38_5741/38_5741_20170914210259.wav",
+        "source_text": "明天是不是晴天啊",
+        "target_text": "谭咏麟今年几岁发过几张专辑有几首单曲开了几场演唱会",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_159.wav",
+        "source_path": "./test/38_5744/38_5744_20170915102006.wav",
+        "target_path": "./test/38_5723/38_5723_20170914200322.wav",
+        "source_text": "明天是不是晴天啊",
+        "target_text": "播放你偷走了我的心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_160.wav",
+        "source_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "target_path": "./test/38_5859/38_5859_20170918215328.wav",
+        "source_text": "口口音乐",
+        "target_text": "老赵我在加五包渗炭螺丝长度你就按照你平时用的那种就",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_161.wav",
+        "source_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "target_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "source_text": "口口音乐",
+        "target_text": "口口音乐",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_162.wav",
+        "source_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202426.wav",
+        "source_text": "口口音乐",
+        "target_text": "除了自命不凡和爱是一种幸福",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_163.wav",
+        "source_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "target_path": "./test/38_5720/38_5720_20170916170515.wav",
+        "source_text": "口口音乐",
+        "target_text": "什么情况呢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_164.wav",
+        "source_path": "./test/38_5718/38_5718_20170915094414.wav",
+        "target_path": "./test/38_5856/38_5856_20170916195411.wav",
+        "source_text": "播放萌萌哒天团的歌",
+        "target_text": "那大天朝天气如何",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_165.wav",
+        "source_path": "./test/38_5718/38_5718_20170915094414.wav",
+        "target_path": "./test/38_5721/38_5721_20170914195759.wav",
+        "source_text": "播放萌萌哒天团的歌",
+        "target_text": "可是平时这个温度也没觉得这么冷啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_166.wav",
+        "source_path": "./test/38_5718/38_5718_20170915094414.wav",
+        "target_path": "./test/38_5866/38_5866_20170917111411.wav",
+        "source_text": "播放萌萌哒天团的歌",
+        "target_text": "请给我播放岁月第八集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_167.wav",
+        "source_path": "./test/38_5718/38_5718_20170915094414.wav",
+        "target_path": "./test/38_5754/38_5754_20170917215402.wav",
+        "source_text": "播放萌萌哒天团的歌",
+        "target_text": "丁宏伟丁宏",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_168.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5887/38_5887_20170917191308.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "灯光待命",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_169.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5889/38_5889_20170917221000.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "请播一个孙楠最新的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_170.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202426.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "除了自命不凡和爱是一种幸福",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_171.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5741/38_5741_20170914210259.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "谭咏麟今年几岁发过几张专辑有几首单曲开了几场演唱会",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_172.wav",
+        "source_path": "./test/38_5722/38_5722_20170915094028.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100243.wav",
+        "source_text": "请给我播放血色浪漫第九集",
+        "target_text": "你老公也是山东的吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_173.wav",
+        "source_path": "./test/38_5722/38_5722_20170915094028.wav",
+        "target_path": "./test/38_5886/38_5886_20170917203035.wav",
+        "source_text": "请给我播放血色浪漫第九集",
+        "target_text": "我自己煮了点粥喝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_174.wav",
+        "source_path": "./test/38_5722/38_5722_20170915094028.wav",
+        "target_path": "./test/38_5781/38_5781_20170915160802.wav",
+        "source_text": "请给我播放血色浪漫第九集",
+        "target_text": "歌词唱得是啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_175.wav",
+        "source_path": "./test/38_5722/38_5722_20170915094028.wav",
+        "target_path": "./test/38_5741/38_5741_20170914220954.wav",
+        "source_text": "请给我播放血色浪漫第九集",
+        "target_text": "恭喜你呀恭喜你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_176.wav",
+        "source_path": "./test/ttt/602.wav",
+        "target_path": "./test/38_5744/38_5744_20170915155850.wav",
+        "source_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "target_text": "请给我来一个真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_177.wav",
+        "source_path": "./test/ttt/602.wav",
+        "target_path": "./test/38_5867/38_5867_20170917131910.wav",
+        "source_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "target_text": "借两百块来",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_178.wav",
+        "source_path": "./test/ttt/602.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_179.wav",
+        "source_path": "./test/ttt/602.wav",
+        "target_path": "./test/38_5802/38_5802_20170916162717.wav",
+        "source_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "target_text": "请帮我开启制热模式",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_180.wav",
+        "source_path": "./dev/5_2824/5_2824_20170701231410.wav",
+        "target_path": "./dev/5_2197/5_2197_20170630184311.wav",
+        "source_text": "因为下雨会影响我家店里的生意",
+        "target_text": "我也不知道是谁",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_181.wav",
+        "source_path": "./dev/5_2824/5_2824_20170701231410.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702163230.wav",
+        "source_text": "因为下雨会影响我家店里的生意",
+        "target_text": "播一个陈升的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_182.wav",
+        "source_path": "./dev/5_2824/5_2824_20170701231410.wav",
+        "target_path": "./dev/5_1838/5_1838_20170628170742.wav",
+        "source_text": "因为下雨会影响我家店里的生意",
+        "target_text": "播放关之琳的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_183.wav",
+        "source_path": "./dev/5_2824/5_2824_20170701231410.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630143206.wav",
+        "source_text": "因为下雨会影响我家店里的生意",
+        "target_text": "今天天气你播的是哪儿的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_184.wav",
+        "source_path": "./dev/5_1838/5_1838_20170630164214.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628224336.wav",
+        "source_text": "变温室温度调到零下九度档",
+        "target_text": "他自己北京的同学聚聚",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_185.wav",
+        "source_path": "./dev/5_1838/5_1838_20170630164214.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630143206.wav",
+        "source_text": "变温室温度调到零下九度档",
+        "target_text": "今天天气你播的是哪儿的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_186.wav",
+        "source_path": "./dev/5_1838/5_1838_20170630164214.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702141955.wav",
+        "source_text": "变温室温度调到零下九度档",
+        "target_text": "播放毕书尽的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_187.wav",
+        "source_path": "./dev/5_1838/5_1838_20170630164214.wav",
+        "target_path": "./dev/5_2855/5_2855_20170702131223.wav",
+        "source_text": "变温室温度调到零下九度档",
+        "target_text": "工作一天就坐着真他妈的轻松",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_188.wav",
+        "source_path": "./dev/37_5622/37_5622_20170914182734.wav",
+        "target_path": "./dev/5_2197/5_2197_20170630075057.wav",
+        "source_text": "嗯那好吧按玲遛",
+        "target_text": "手机有多少费用",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_189.wav",
+        "source_path": "./dev/37_5622/37_5622_20170914182734.wav",
+        "target_path": "./dev/5_2296/5_2296_20170701170908.wav",
+        "source_text": "嗯那好吧按玲遛",
+        "target_text": "好的那我听一会儿听完了找你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_190.wav",
+        "source_path": "./dev/37_5622/37_5622_20170914182734.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628152826.wav",
+        "source_text": "嗯那好吧按玲遛",
+        "target_text": "来一首真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_191.wav",
+        "source_path": "./dev/37_5622/37_5622_20170914182734.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701155120.wav",
+        "source_text": "嗯那好吧按玲遛",
+        "target_text": "我不会打字啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_192.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915102108.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "朵还鼻子不透气啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_193.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./dev/5_2855/5_2855_20170702132232.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "我想一会就去",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_194.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./dev/38_5731/38_5731_20170914202006.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "钢琴自学的效率高吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_195.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701151239.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "我把红酒喝了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_196.wav",
+        "source_path": "./dev/38_5731/38_5731_20170915091513.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628225659.wav",
+        "source_text": "在哪里是不是该吃饭了",
+        "target_text": "但是我妈她们住在我家北边的宾馆里",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_197.wav",
+        "source_path": "./dev/38_5731/38_5731_20170915091513.wav",
+        "target_path": "./dev/5_1838/5_1838_20170629151822.wav",
+        "source_text": "在哪里是不是该吃饭了",
+        "target_text": "播放谁明浪子心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_198.wav",
+        "source_path": "./dev/38_5731/38_5731_20170915091513.wav",
+        "target_path": "./dev/5_2309/5_2309_20170630221500.wav",
+        "source_text": "在哪里是不是该吃饭了",
+        "target_text": "室温状态",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_199.wav",
+        "source_path": "./dev/38_5731/38_5731_20170915091513.wav",
+        "target_path": "./dev/37_5622/37_5622_20170914125723.wav",
+        "source_text": "在哪里是不是该吃饭了",
+        "target_text": "放大梦想家",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_200.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./dev/5_2824/5_2824_20170702000751.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "谁能告诉我蔡依林的新歌到底被谁盗了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_201.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./dev/5_2824/5_2824_20170702094536.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "三十米",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_202.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628145114.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "放一下紫外线",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_203.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630143206.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "今天天气你播的是哪儿的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_204.wav",
+        "source_path": "./dev/5_2641/5_2641_20170701185451.wav",
+        "target_path": "./dev/37_5622/37_5622_20170914130524.wav",
+        "source_text": "你给爸交电话费车票爸有事的钱都是爸掏的爸没要你给爸交电话费",
+        "target_text": "给我来一首五月天唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_205.wav",
+        "source_path": "./dev/5_2641/5_2641_20170701185451.wav",
+        "target_path": "./dev/5_2595/5_2595_20170701150152.wav",
+        "source_text": "你给爸交电话费车票爸有事的钱都是爸掏的爸没要你给爸交电话费",
+        "target_text": "内蒙古呼伦贝尔市阿荣旗的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_206.wav",
+        "source_path": "./dev/5_2641/5_2641_20170701185451.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "你给爸交电话费车票爸有事的钱都是爸掏的爸没要你给爸交电话费",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_207.wav",
+        "source_path": "./dev/5_2641/5_2641_20170701185451.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630140210.wav",
+        "source_text": "你给爸交电话费车票爸有事的钱都是爸掏的爸没要你给爸交电话费",
+        "target_text": "来一首简单爱",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_208.wav",
+        "source_path": "./dev/5_2751/5_2751_20170701222637.wav",
+        "target_path": "./dev/5_2751/5_2751_20170701195544.wav",
+        "source_text": "来首无印良品的歌",
+        "target_text": "像这样以后下雨阴天会不会对他有影响呢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_209.wav",
+        "source_path": "./dev/5_2751/5_2751_20170701222637.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702163230.wav",
+        "source_text": "来首无印良品的歌",
+        "target_text": "播一个陈升的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_210.wav",
+        "source_path": "./dev/5_2751/5_2751_20170701222637.wav",
+        "target_path": "./dev/5_1838/5_1838_20170630183538.wav",
+        "source_text": "来首无印良品的歌",
+        "target_text": "明天开会吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_211.wav",
+        "source_path": "./dev/5_2751/5_2751_20170701222637.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702164647.wav",
+        "source_text": "来首无印良品的歌",
+        "target_text": "给我来一个谭咏麟唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_212.wav",
+        "source_path": "./dev/5_2855/5_2855_20170702130505.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "我怎么我怎么敢不和你聊天",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_213.wav",
+        "source_path": "./dev/5_2855/5_2855_20170702130505.wav",
+        "target_path": "./dev/5_2824/5_2824_20170702000820.wav",
+        "source_text": "我怎么我怎么敢不和你聊天",
+        "target_text": "播放因为刚好遇见你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_214.wav",
+        "source_path": "./dev/5_2855/5_2855_20170702130505.wav",
+        "target_path": "./dev/37_5622/37_5622_20170913222126.wav",
+        "source_text": "我怎么我怎么敢不和你聊天",
+        "target_text": "座位下降",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_215.wav",
+        "source_path": "./dev/5_2855/5_2855_20170702130505.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915102108.wav",
+        "source_text": "我怎么我怎么敢不和你聊天",
+        "target_text": "朵还鼻子不透气啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_216.wav",
+        "source_path": "./dev/5_2399/5_2399_20170630160724.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916163159.wav",
+        "source_text": "想听从此以后了",
+        "target_text": "内容",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_217.wav",
+        "source_path": "./dev/5_2399/5_2399_20170630160724.wav",
+        "target_path": "./dev/5_2197/5_2197_20170630182914.wav",
+        "source_text": "想听从此以后了",
+        "target_text": "非常堵车还没有到花乡桥",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_218.wav",
+        "source_path": "./dev/5_2399/5_2399_20170630160724.wav",
+        "target_path": "./dev/5_2296/5_2296_20170701165102.wav",
+        "source_text": "想听从此以后了",
+        "target_text": "我去看电影了晚上七点半到科里",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_219.wav",
+        "source_path": "./dev/5_2399/5_2399_20170630160724.wav",
+        "target_path": "./dev/5_2641/5_2641_20170701160644.wav",
+        "source_text": "想听从此以后了",
+        "target_text": "播放遇见爱情",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_220.wav",
+        "source_path": "./dev/5_2595/5_2595_20170701135411.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701144837.wav",
+        "source_text": "放一下发如雪",
+        "target_text": "请给我来首辛晓琪的专辑",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_221.wav",
+        "source_path": "./dev/5_2595/5_2595_20170701135411.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916164733.wav",
+        "source_text": "放一下发如雪",
+        "target_text": "你是否超速了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_222.wav",
+        "source_path": "./dev/5_2595/5_2595_20170701135411.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916163159.wav",
+        "source_text": "放一下发如雪",
+        "target_text": "内容",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_223.wav",
+        "source_path": "./dev/5_2595/5_2595_20170701135411.wav",
+        "target_path": "./dev/5_1838/5_1838_20170628170742.wav",
+        "source_text": "放一下发如雪",
+        "target_text": "播放关之琳的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_224.wav",
+        "source_path": "./dev/5_2770/5_2770_20170701204102.wav",
+        "target_path": "./dev/5_2197/5_2197_20170630184311.wav",
+        "source_text": "外边下雨我才不出去",
+        "target_text": "我也不知道是谁",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_225.wav",
+        "source_path": "./dev/5_2770/5_2770_20170701204102.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915102909.wav",
+        "source_text": "外边下雨我才不出去",
+        "target_text": "外套",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_226.wav",
+        "source_path": "./dev/5_2770/5_2770_20170701204102.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630140210.wav",
+        "source_text": "外边下雨我才不出去",
+        "target_text": "来一首简单爱",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_227.wav",
+        "source_path": "./dev/5_2770/5_2770_20170701204102.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702165822.wav",
+        "source_text": "外边下雨我才不出去",
+        "target_text": "我都快到了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_228.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702145641.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "你把发票的名称发到我手机上",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_229.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702164647.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "给我来一个谭咏麟唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_230.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628152826.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "来一首真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_231.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./dev/5_2595/5_2595_20170701125604.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "播放冬天里的一把火",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_232.wav",
+        "source_path": "./dev/38_5845/38_5845_20170916195546.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701154059.wav",
+        "source_text": "那你一般上网很少有找人聊天吧",
+        "target_text": "买回来觉得穿着大就可以换个小的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_233.wav",
+        "source_path": "./dev/38_5845/38_5845_20170916195546.wav",
+        "target_path": "./dev/5_2309/5_2309_20170630221500.wav",
+        "source_text": "那你一般上网很少有找人聊天吧",
+        "target_text": "室温状态",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_234.wav",
+        "source_path": "./dev/38_5845/38_5845_20170916195546.wav",
+        "target_path": "./dev/5_2296/5_2296_20170701170409.wav",
+        "source_text": "那你一般上网很少有找人聊天吧",
+        "target_text": "好吧你去吧",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_235.wav",
+        "source_path": "./dev/38_5845/38_5845_20170916195546.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916193409.wav",
+        "source_text": "那你一般上网很少有找人聊天吧",
+        "target_text": "给我播放乔家大院第一集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_236.wav",
+        "source_path": "./dev/38_5730/38_5730_20170915101446.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "请来一首孙燕姿的歌",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_237.wav",
+        "source_path": "./dev/38_5730/38_5730_20170915101446.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916193409.wav",
+        "source_text": "请来一首孙燕姿的歌",
+        "target_text": "给我播放乔家大院第一集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_238.wav",
+        "source_path": "./dev/38_5730/38_5730_20170915101446.wav",
+        "target_path": "./dev/5_2641/5_2641_20170701202308.wav",
+        "source_text": "请来一首孙燕姿的歌",
+        "target_text": "这个可能不够完善",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_239.wav",
+        "source_path": "./dev/38_5730/38_5730_20170915101446.wav",
+        "target_path": "./dev/5_2824/5_2824_20170702094536.wav",
+        "source_text": "请来一首孙燕姿的歌",
+        "target_text": "三十米",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_240.wav",
+        "source_path": "./dev/5_1812/5_1812_20170628143709.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628225659.wav",
+        "source_text": "天气变化太快",
+        "target_text": "但是我妈她们住在我家北边的宾馆里",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_241.wav",
+        "source_path": "./dev/5_1812/5_1812_20170628143709.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915101848.wav",
+        "source_text": "天气变化太快",
+        "target_text": "我想听辛晓琪演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_242.wav",
+        "source_path": "./dev/5_1812/5_1812_20170628143709.wav",
+        "target_path": "./dev/5_2595/5_2595_20170701153851.wav",
+        "source_text": "天气变化太快",
+        "target_text": "啥时间定啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_243.wav",
+        "source_path": "./dev/5_1812/5_1812_20170628143709.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628152826.wav",
+        "source_text": "天气变化太快",
+        "target_text": "来一首真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_244.wav",
+        "source_path": "./dev/5_1932/5_1932_20170628222522.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628221640.wav",
+        "source_text": "地下交通站",
+        "target_text": "听一首 老屋",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_245.wav",
+        "source_path": "./dev/5_1932/5_1932_20170628222522.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702122250.wav",
+        "source_text": "地下交通站",
+        "target_text": "我想听日文歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_246.wav",
+        "source_path": "./dev/5_1932/5_1932_20170628222522.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628154846.wav",
+        "source_text": "地下交通站",
+        "target_text": "等我晃你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_247.wav",
+        "source_path": "./dev/5_1932/5_1932_20170628222522.wav",
+        "target_path": "./dev/5_2770/5_2770_20170701215351.wav",
+        "source_text": "地下交通站",
+        "target_text": "我没事干啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_248.wav",
+        "source_path": "./dev/5_3039/5_3039_20170702150100.wav",
+        "target_path": "./dev/5_2751/5_2751_20170701223840.wav",
+        "source_text": "老弟别客气",
+        "target_text": "我穿羽绒服了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_249.wav",
+        "source_path": "./dev/5_3039/5_3039_20170702150100.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915102108.wav",
+        "source_text": "老弟别客气",
+        "target_text": "朵还鼻子不透气啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_250.wav",
+        "source_path": "./dev/5_3039/5_3039_20170702150100.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916193409.wav",
+        "source_text": "老弟别客气",
+        "target_text": "给我播放乔家大院第一集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_251.wav",
+        "source_path": "./dev/5_3039/5_3039_20170702150100.wav",
+        "target_path": "./dev/5_2595/5_2595_20170701125604.wav",
+        "source_text": "老弟别客气",
+        "target_text": "播放冬天里的一把火",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_252.wav",
+        "source_path": "./dev/5_3099/5_3099_20170702171731.wav",
+        "target_path": "./dev/37_5622/37_5622_20170914125723.wav",
+        "source_text": "乖结婚怎么样啊",
+        "target_text": "放大梦想家",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_253.wav",
+        "source_path": "./dev/5_3099/5_3099_20170702171731.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "乖结婚怎么样啊",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_254.wav",
+        "source_path": "./dev/5_3099/5_3099_20170702171731.wav",
+        "target_path": "./dev/5_2751/5_2751_20170701223840.wav",
+        "source_text": "乖结婚怎么样啊",
+        "target_text": "我穿羽绒服了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_255.wav",
+        "source_path": "./dev/5_3099/5_3099_20170702171731.wav",
+        "target_path": "./dev/5_2296/5_2296_20170701165102.wav",
+        "source_text": "乖结婚怎么样啊",
+        "target_text": "我去看电影了晚上七点半到科里",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_256.wav",
+        "source_path": "./dev/5_2309/5_2309_20170701124817.wav",
+        "target_path": "./dev/5_1838/5_1838_20170629151822.wav",
+        "source_text": "最近在百度里找不到复制链接的那一块",
+        "target_text": "播放谁明浪子心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_257.wav",
+        "source_path": "./dev/5_2309/5_2309_20170701124817.wav",
+        "target_path": "./dev/38_5731/38_5731_20170915092611.wav",
+        "source_text": "最近在百度里找不到复制链接的那一块",
+        "target_text": "老大为什么不说话",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_258.wav",
+        "source_path": "./dev/5_2309/5_2309_20170701124817.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915101848.wav",
+        "source_text": "最近在百度里找不到复制链接的那一块",
+        "target_text": "我想听辛晓琪演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_259.wav",
+        "source_path": "./dev/5_2309/5_2309_20170701124817.wav",
+        "target_path": "./dev/5_2770/5_2770_20170701204912.wav",
+        "source_text": "最近在百度里找不到复制链接的那一块",
+        "target_text": "又降温啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_260.wav",
+        "source_path": "./test/38_5889/38_5889_20170917221656.wav",
+        "target_path": "./test/38_5741/38_5741_20170914222558.wav",
+        "source_text": "请给我来一首周华健的专辑",
+        "target_text": "我想也是这样的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_261.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5771/38_5771_20170915155955.wav",
+        "source_text": "你听写他吧",
+        "target_text": "纵贯线",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_262.wav",
+        "source_path": "./dev/5_1812/5_1812_20170628143709.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "天气变化太快",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_263.wav",
+        "source_path": "./dev/38_5845/38_5845_20170916195546.wav",
+        "target_path": "./test/38_5734/38_5734_20170914195132.wav",
+        "source_text": "那你一般上网很少有找人聊天吧",
+        "target_text": "座位靠前",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_264.wav",
+        "source_path": "./dev/5_3099/5_3099_20170702171731.wav",
+        "target_path": "./dev/5_1838/5_1838_20170628170742.wav",
+        "source_text": "乖结婚怎么样啊",
+        "target_text": "播放关之琳的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_265.wav",
+        "source_path": "./test/38_5739/38_5739_20170914223613.wav",
+        "target_path": "./test/38_5735/38_5735_20170916154614.wav",
+        "source_text": "和你说了好几遍了",
+        "target_text": "歌手专辑名旋律要比较缓和的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_266.wav",
+        "source_path": "./test/38_5721/38_5721_20170915090424.wav",
+        "target_path": "./test/38_5794/38_5794_20170915215256.wav",
+        "source_text": "一分也没了",
+        "target_text": "放一首苏丹的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_267.wav",
+        "source_path": "./test/38_5866/38_5866_20170917104212.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100228.wav",
+        "source_text": "下雨了我要去给老公送伞了",
+        "target_text": "但我对她没感觉",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_268.wav",
+        "source_path": "./dev/5_2641/5_2641_20170701185451.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202426.wav",
+        "source_text": "你给爸交电话费车票爸有事的钱都是爸掏的爸没要你给爸交电话费",
+        "target_text": "除了自命不凡和爱是一种幸福",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_269.wav",
+        "source_path": "./dev/5_2595/5_2595_20170701135411.wav",
+        "target_path": "./test/38_5870/38_5870_20170917090041.wav",
+        "source_text": "放一下发如雪",
+        "target_text": "听一首迁徙",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_270.wav",
+        "source_path": "./test/38_5858/38_5858_20170917213917.wav",
+        "target_path": "./test/38_5723/38_5723_20170914200322.wav",
+        "source_text": "别吃太多月饼",
+        "target_text": "播放你偷走了我的心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_271.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5794/38_5794_20170915215256.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "放一首苏丹的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_272.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./test/38_5744/38_5744_20170915160714.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "要么改日",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_273.wav",
+        "source_path": "./test/38_5890/38_5890_20170918132905.wav",
+        "target_path": "./dev/5_2770/5_2770_20170701204912.wav",
+        "source_text": "请播一个齐豫演唱的歌",
+        "target_text": "又降温啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_274.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628221640.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "听一首 老屋",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_275.wav",
+        "source_path": "./test/38_5889/38_5889_20170917221656.wav",
+        "target_path": "./test/38_5836/38_5836_20170916202729.wav",
+        "source_text": "请给我来一首周华健的专辑",
+        "target_text": "听个永宁",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_276.wav",
+        "source_path": "./dev/5_2824/5_2824_20170701231410.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701155120.wav",
+        "source_text": "因为下雨会影响我家店里的生意",
+        "target_text": "我不会打字啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_277.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630143206.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "今天天气你播的是哪儿的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_278.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./test/38_5859/38_5859_20170918220452.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "家里电话还打不通晚上再打",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_279.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/38_5754/38_5754_20170917215402.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "丁宏伟丁宏",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_280.wav",
+        "source_path": "./test/38_5721/38_5721_20170915090424.wav",
+        "target_path": "./dev/5_1838/5_1838_20170629151822.wav",
+        "source_text": "一分也没了",
+        "target_text": "播放谁明浪子心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_281.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/ttt/602.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_282.wav",
+        "source_path": "./test/38_5814/38_5814_20170916131843.wav",
+        "target_path": "./test/38_5744/38_5744_20170915155850.wav",
+        "source_text": "大晴天的打雷了",
+        "target_text": "请给我来一个真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_283.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5718/38_5718_20170914202638.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "最近好烦呀想听抒情悲伤的音乐有谁能推荐几首谢了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_284.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_285.wav",
+        "source_path": "./test/ttt/602.wav",
+        "target_path": "./test/38_5723/38_5723_20170914203433.wav",
+        "source_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "target_text": "那浙江的天气呢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_286.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5744/38_5744_20170915155850.wav",
+        "source_text": "你听写他吧",
+        "target_text": "请给我来一个真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_287.wav",
+        "source_path": "./test/38_5744/38_5744_20170915102006.wav",
+        "target_path": "./test/38_5794/38_5794_20170916131623.wav",
+        "source_text": "明天是不是晴天啊",
+        "target_text": "我就要我老婆别的不要",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_288.wav",
+        "source_path": "./dev/38_5731/38_5731_20170915091513.wav",
+        "target_path": "./test/38_5866/38_5866_20170917105242.wav",
+        "source_text": "在哪里是不是该吃饭了",
+        "target_text": "订房间的时候涠洲岛的人告诉我有台风我想退船票",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_289.wav",
+        "source_path": "./test/38_5716/38_5716_20170914202647.wav",
+        "target_path": "./dev/5_2824/5_2824_20170702000751.wav",
+        "source_text": "叫他明天早上差五分儿九点去机场",
+        "target_text": "谁能告诉我蔡依林的新歌到底被谁盗了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_290.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_291.wav",
+        "source_path": "./test/38_5771/38_5771_20170915132158.wav",
+        "target_path": "./dev/38_5731/38_5731_20170914202006.wav",
+        "source_text": "别说我的眼泪你无所谓竖笛简谱",
+        "target_text": "钢琴自学的效率高吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_292.wav",
+        "source_path": "./test/38_5859/38_5859_20170917225122.wav",
+        "target_path": "./test/38_5744/38_5744_20170915155850.wav",
+        "source_text": "给我播一个赵传唱的歌",
+        "target_text": "请给我来一个真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_293.wav",
+        "source_path": "./test/38_5739/38_5739_20170914223613.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202341.wav",
+        "source_text": "和你说了好几遍了",
+        "target_text": "播放雪莉的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_294.wav",
+        "source_path": "./test/38_5888/38_5888_20170917210122.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701155120.wav",
+        "source_text": "明天黑河的天气怎么样",
+        "target_text": "我不会打字啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_295.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./dev/5_1838/5_1838_20170628170742.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "播放关之琳的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_296.wav",
+        "source_path": "./test/38_5752/38_5752_20170915230341.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916193409.wav",
+        "source_text": "我直接找他",
+        "target_text": "给我播放乔家大院第一集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_297.wav",
+        "source_path": "./test/38_5883/38_5883_20170917132741.wav",
+        "target_path": "./test/38_5798/38_5798_20170915223847.wav",
+        "source_text": "高潮部分听着特别耳熟就是想不起来了",
+        "target_text": "调整座位到正常",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_298.wav",
+        "source_path": "./test/38_5888/38_5888_20170917210122.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628152826.wav",
+        "source_text": "明天黑河的天气怎么样",
+        "target_text": "来一首真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_299.wav",
+        "source_path": "./test/38_5859/38_5859_20170917225122.wav",
+        "target_path": "./test/38_5751/38_5751_20170915121525.wav",
+        "source_text": "给我播一个赵传唱的歌",
+        "target_text": "燕儿昆明下大雪了好冷",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_300.wav",
+        "source_path": "./test/38_5814/38_5814_20170916131843.wav",
+        "target_path": "./dev/5_2824/5_2824_20170702094536.wav",
+        "source_text": "大晴天的打雷了",
+        "target_text": "三十米",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_301.wav",
+        "source_path": "./dev/5_1812/5_1812_20170628143709.wav",
+        "target_path": "./test/38_5751/38_5751_20170915121525.wav",
+        "source_text": "天气变化太快",
+        "target_text": "燕儿昆明下大雪了好冷",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_302.wav",
+        "source_path": "./test/38_5716/38_5716_20170914202647.wav",
+        "target_path": "./dev/5_1838/5_1838_20170630183538.wav",
+        "source_text": "叫他明天早上差五分儿九点去机场",
+        "target_text": "明天开会吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_303.wav",
+        "source_path": "./dev/5_1812/5_1812_20170628143709.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630140210.wav",
+        "source_text": "天气变化太快",
+        "target_text": "来一首简单爱",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_304.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./test/38_5798/38_5798_20170915223847.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "调整座位到正常",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_305.wav",
+        "source_path": "./test/38_5788/38_5788_20170917223756.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630143206.wav",
+        "source_text": "我过两天回家",
+        "target_text": "今天天气你播的是哪儿的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_306.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5858/38_5858_20170919124843.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "告诉你一个好玩的东西啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_307.wav",
+        "source_path": "./test/38_5735/38_5735_20170916154507.wav",
+        "target_path": "./test/38_5720/38_5720_20170916170515.wav",
+        "source_text": "播放董大为的歌曲",
+        "target_text": "什么情况呢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_308.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916193409.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "给我播放乔家大院第一集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_309.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./test/38_5799/38_5799_20170915222858.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "请问对一个初学声乐的人应该怎样尽快做到真假声混合并且气息足够",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_310.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./test/38_5752/38_5752_20170915223952.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "请来一首王菲的专辑",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_311.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./test/38_5859/38_5859_20170918215328.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "老赵我在加五包渗炭螺丝长度你就按照你平时用的那种就",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_312.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5889/38_5889_20170917221000.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "请播一个孙楠最新的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_313.wav",
+        "source_path": "./dev/5_1932/5_1932_20170628222522.wav",
+        "target_path": "./test/38_5754/38_5754_20170916183616.wav",
+        "source_text": "地下交通站",
+        "target_text": "请播一个沙宝亮的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_314.wav",
+        "source_path": "./dev/5_2641/5_2641_20170701185451.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628152826.wav",
+        "source_text": "你给爸交电话费车票爸有事的钱都是爸掏的爸没要你给爸交电话费",
+        "target_text": "来一首真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_315.wav",
+        "source_path": "./dev/5_2751/5_2751_20170701222637.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702163230.wav",
+        "source_text": "来首无印良品的歌",
+        "target_text": "播一个陈升的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_316.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5753/38_5753_20170916165257.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "叫上星他两口子啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_317.wav",
+        "source_path": "./test/38_5722/38_5722_20170915094028.wav",
+        "target_path": "./test/38_5718/38_5718_20170914202937.wav",
+        "source_text": "请给我播放血色浪漫第九集",
+        "target_text": "陕西省千阳县的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_318.wav",
+        "source_path": "./test/ttt/602.wav",
+        "target_path": "./test/38_5888/38_5888_20170917205420.wav",
+        "source_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "target_text": "播放一仆二主",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_319.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./dev/5_2855/5_2855_20170702131223.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "工作一天就坐着真他妈的轻松",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_320.wav",
+        "source_path": "./test/38_5735/38_5735_20170916154507.wav",
+        "target_path": "./test/38_5781/38_5781_20170915165650.wav",
+        "source_text": "播放董大为的歌曲",
+        "target_text": "不唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_321.wav",
+        "source_path": "./test/38_5858/38_5858_20170917213917.wav",
+        "target_path": "./test/38_5781/38_5781_20170915165650.wav",
+        "source_text": "别吃太多月饼",
+        "target_text": "不唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_322.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5886/38_5886_20170917203035.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "我自己煮了点粥喝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_323.wav",
+        "source_path": "./test/38_5837/38_5837_20170916203408.wav",
+        "target_path": "./test/38_5856/38_5856_20170916195411.wav",
+        "source_text": "有一首歌曲歌中我不愿就这样离开",
+        "target_text": "那大天朝天气如何",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_324.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_325.wav",
+        "source_path": "./test/38_5721/38_5721_20170915090424.wav",
+        "target_path": "./test/38_5799/38_5799_20170915222858.wav",
+        "source_text": "一分也没了",
+        "target_text": "请问对一个初学声乐的人应该怎样尽快做到真假声混合并且气息足够",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_326.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5798/38_5798_20170915223847.wav",
+        "source_text": "你听写他吧",
+        "target_text": "调整座位到正常",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_327.wav",
+        "source_path": "./dev/5_2855/5_2855_20170702130505.wav",
+        "target_path": "./dev/5_2855/5_2855_20170702132232.wav",
+        "source_text": "我怎么我怎么敢不和你聊天",
+        "target_text": "我想一会就去",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_328.wav",
+        "source_path": "./test/38_5722/38_5722_20170915094028.wav",
+        "target_path": "./test/38_5754/38_5754_20170915143652.wav",
+        "source_text": "请给我播放血色浪漫第九集",
+        "target_text": "大概在多少钱上下最低多少最高多少",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_329.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_330.wav",
+        "source_path": "./test/38_5883/38_5883_20170917132741.wav",
+        "target_path": "./dev/5_1838/5_1838_20170628170742.wav",
+        "source_text": "高潮部分听着特别耳熟就是想不起来了",
+        "target_text": "播放关之琳的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_331.wav",
+        "source_path": "./test/38_5888/38_5888_20170917210122.wav",
+        "target_path": "./test/38_5856/38_5856_20170916195411.wav",
+        "source_text": "明天黑河的天气怎么样",
+        "target_text": "那大天朝天气如何",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_332.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./dev/37_5622/37_5622_20170913222126.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "座位下降",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_333.wav",
+        "source_path": "./test/38_5852/38_5852_20170916203201.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628221640.wav",
+        "source_text": "路边有个男的会带你找车位",
+        "target_text": "听一首 老屋",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_334.wav",
+        "source_path": "./dev/5_2309/5_2309_20170701124817.wav",
+        "target_path": "./test/38_5722/38_5722_20170915092330.wav",
+        "source_text": "最近在百度里找不到复制链接的那一块",
+        "target_text": "来首水木年华演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_335.wav",
+        "source_path": "./dev/5_2751/5_2751_20170701222637.wav",
+        "target_path": "./test/ttt/clap_16k_epd2.wav",
+        "source_text": "来首无印良品的歌",
+        "target_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_336.wav",
+        "source_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "target_path": "./test/38_5718/38_5718_20170915103206.wav",
+        "source_text": "口口音乐",
+        "target_text": "肺结核能抽烟吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_337.wav",
+        "source_path": "./dev/5_2399/5_2399_20170630160724.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628224336.wav",
+        "source_text": "想听从此以后了",
+        "target_text": "他自己北京的同学聚聚",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_338.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./dev/5_2296/5_2296_20170701165102.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "我去看电影了晚上七点半到科里",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_339.wav",
+        "source_path": "./dev/5_2855/5_2855_20170702130505.wav",
+        "target_path": "./dev/5_2197/5_2197_20170630182914.wav",
+        "source_text": "我怎么我怎么敢不和你聊天",
+        "target_text": "非常堵车还没有到花乡桥",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_340.wav",
+        "source_path": "./dev/5_1932/5_1932_20170628222522.wav",
+        "target_path": "./test/38_5802/38_5802_20170916162717.wav",
+        "source_text": "地下交通站",
+        "target_text": "请帮我开启制热模式",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_341.wav",
+        "source_path": "./test/38_5888/38_5888_20170917210122.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915102108.wav",
+        "source_text": "明天黑河的天气怎么样",
+        "target_text": "朵还鼻子不透气啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_342.wav",
+        "source_path": "./test/38_5744/38_5744_20170915102006.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915101848.wav",
+        "source_text": "明天是不是晴天啊",
+        "target_text": "我想听辛晓琪演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_343.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916163159.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "内容",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_344.wav",
+        "source_path": "./dev/5_2855/5_2855_20170702130505.wav",
+        "target_path": "./dev/5_2824/5_2824_20170702000820.wav",
+        "source_text": "我怎么我怎么敢不和你聊天",
+        "target_text": "播放因为刚好遇见你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_345.wav",
+        "source_path": "./test/38_5886/38_5886_20170917193526.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915101848.wav",
+        "source_text": "提醒他后天早上去开会",
+        "target_text": "我想听辛晓琪演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_346.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./test/38_5723/38_5723_20170914202655.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "福建省泉州市的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_347.wav",
+        "source_path": "./test/38_5866/38_5866_20170917104212.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "下雨了我要去给老公送伞了",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_348.wav",
+        "source_path": "./test/38_5886/38_5886_20170917193526.wav",
+        "target_path": "./test/38_5741/38_5741_20170914220954.wav",
+        "source_text": "提醒他后天早上去开会",
+        "target_text": "恭喜你呀恭喜你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_349.wav",
+        "source_path": "./test/38_5739/38_5739_20170914223613.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702165822.wav",
+        "source_text": "和你说了好几遍了",
+        "target_text": "我都快到了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_350.wav",
+        "source_path": "./test/38_5733/38_5733_20170915110335.wav",
+        "target_path": "./test/38_5859/38_5859_20170918220452.wav",
+        "source_text": "听听歌曲修今生",
+        "target_text": "家里电话还打不通晚上再打",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_351.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_352.wav",
+        "source_path": "./test/38_5883/38_5883_20170917132741.wav",
+        "target_path": "./test/38_5870/38_5870_20170917091317.wav",
+        "source_text": "高潮部分听着特别耳熟就是想不起来了",
+        "target_text": "请给我来一首萧敬腾的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_353.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./dev/5_1838/5_1838_20170628170742.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "播放关之琳的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_354.wav",
+        "source_path": "./dev/5_2595/5_2595_20170701135411.wav",
+        "target_path": "./test/38_5886/38_5886_20170917195104.wav",
+        "source_text": "放一下发如雪",
+        "target_text": "播放傻逼",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_355.wav",
+        "source_path": "./dev/5_1838/5_1838_20170630164214.wav",
+        "target_path": "./test/38_5887/38_5887_20170917204249.wav",
+        "source_text": "变温室温度调到零下九度档",
+        "target_text": "回来办身份证",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_356.wav",
+        "source_path": "./test/38_5890/38_5890_20170918132905.wav",
+        "target_path": "./test/38_5859/38_5859_20170918220452.wav",
+        "source_text": "请播一个齐豫演唱的歌",
+        "target_text": "家里电话还打不通晚上再打",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_357.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./test/38_5852/38_5852_20170916200015.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "来个许嵩演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_358.wav",
+        "source_path": "./test/38_5781/38_5781_20170915165529.wav",
+        "target_path": "./dev/5_2595/5_2595_20170701125604.wav",
+        "source_text": "来个张信哲的歌",
+        "target_text": "播放冬天里的一把火",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_359.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./dev/5_2751/5_2751_20170701223840.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "我穿羽绒服了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_360.wav",
+        "source_path": "./dev/5_2770/5_2770_20170701204102.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916164733.wav",
+        "source_text": "外边下雨我才不出去",
+        "target_text": "你是否超速了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_361.wav",
+        "source_path": "./test/38_5788/38_5788_20170917223756.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915102108.wav",
+        "source_text": "我过两天回家",
+        "target_text": "朵还鼻子不透气啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_362.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_363.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./test/38_5722/38_5722_20170915094709.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "下班回来时候帮我买一张流量卡我他妈套餐没办法上用了一百多块钱上网",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_364.wav",
+        "source_path": "./test/38_5733/38_5733_20170915110335.wav",
+        "target_path": "./test/ttt/clap_16k_epd2.wav",
+        "source_text": "听听歌曲修今生",
+        "target_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_365.wav",
+        "source_path": "./dev/5_1932/5_1932_20170628222522.wav",
+        "target_path": "./test/38_5741/38_5741_20170914220954.wav",
+        "source_text": "地下交通站",
+        "target_text": "恭喜你呀恭喜你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_366.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5744/38_5744_20170915155850.wav",
+        "source_text": "你听写他吧",
+        "target_text": "请给我来一个真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_367.wav",
+        "source_path": "./test/38_5725/38_5725_20170915092358.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630143206.wav",
+        "source_text": "播放血色湘西第八集",
+        "target_text": "今天天气你播的是哪儿的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_368.wav",
+        "source_path": "./dev/38_5731/38_5731_20170915091513.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916164733.wav",
+        "source_text": "在哪里是不是该吃饭了",
+        "target_text": "你是否超速了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_369.wav",
+        "source_path": "./dev/5_2770/5_2770_20170701204102.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "外边下雨我才不出去",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_370.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5788/38_5788_20170916224427.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "我要换到工作模式",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_371.wav",
+        "source_path": "./test/38_5866/38_5866_20170917104212.wav",
+        "target_path": "./test/38_5837/38_5837_20170916155523.wav",
+        "source_text": "下雨了我要去给老公送伞了",
+        "target_text": "放一下我在",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_372.wav",
+        "source_path": "./test/38_5781/38_5781_20170915165529.wav",
+        "target_path": "./test/38_5723/38_5723_20170914202655.wav",
+        "source_text": "来个张信哲的歌",
+        "target_text": "福建省泉州市的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_373.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628224336.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "他自己北京的同学聚聚",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_374.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5734/38_5734_20170914195132.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "座位靠前",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_375.wav",
+        "source_path": "./test/38_5883/38_5883_20170917132741.wav",
+        "target_path": "./dev/5_2296/5_2296_20170701170409.wav",
+        "source_text": "高潮部分听着特别耳熟就是想不起来了",
+        "target_text": "好吧你去吧",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_376.wav",
+        "source_path": "./test/38_5724/38_5724_20170915094042.wav",
+        "target_path": "./test/38_5722/38_5722_20170915094709.wav",
+        "source_text": "几点回家老公",
+        "target_text": "下班回来时候帮我买一张流量卡我他妈套餐没办法上用了一百多块钱上网",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_377.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_378.wav",
+        "source_path": "./dev/5_3099/5_3099_20170702171731.wav",
+        "target_path": "./test/38_5718/38_5718_20170914202638.wav",
+        "source_text": "乖结婚怎么样啊",
+        "target_text": "最近好烦呀想听抒情悲伤的音乐有谁能推荐几首谢了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_379.wav",
+        "source_path": "./test/38_5870/38_5870_20170917085725.wav",
+        "target_path": "./dev/5_1838/5_1838_20170629151822.wav",
+        "source_text": "播放亲亲猪猪宝贝",
+        "target_text": "播放谁明浪子心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_380.wav",
+        "source_path": "./test/38_5771/38_5771_20170915132158.wav",
+        "target_path": "./test/38_5744/38_5744_20170915155850.wav",
+        "source_text": "别说我的眼泪你无所谓竖笛简谱",
+        "target_text": "请给我来一个真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_381.wav",
+        "source_path": "./dev/5_2751/5_2751_20170701222637.wav",
+        "target_path": "./test/38_5867/38_5867_20170917123418.wav",
+        "source_text": "来首无印良品的歌",
+        "target_text": "告诉我湖南明天的天气怎么样",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_382.wav",
+        "source_path": "./test/38_5852/38_5852_20170916203201.wav",
+        "target_path": "./test/38_5735/38_5735_20170916154614.wav",
+        "source_text": "路边有个男的会带你找车位",
+        "target_text": "歌手专辑名旋律要比较缓和的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_383.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./dev/5_2309/5_2309_20170630221500.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "室温状态",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_384.wav",
+        "source_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "target_path": "./test/38_5781/38_5781_20170915160802.wav",
+        "source_text": "口口音乐",
+        "target_text": "歌词唱得是啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_385.wav",
+        "source_path": "./dev/5_2824/5_2824_20170701231410.wav",
+        "target_path": "./test/38_5723/38_5723_20170914203433.wav",
+        "source_text": "因为下雨会影响我家店里的生意",
+        "target_text": "那浙江的天气呢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_386.wav",
+        "source_path": "./test/38_5858/38_5858_20170917213917.wav",
+        "target_path": "./test/38_5723/38_5723_20170914200322.wav",
+        "source_text": "别吃太多月饼",
+        "target_text": "播放你偷走了我的心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_387.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./test/38_5888/38_5888_20170917205420.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "播放一仆二主",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_388.wav",
+        "source_path": "./test/38_5788/38_5788_20170917223756.wav",
+        "target_path": "./test/38_5852/38_5852_20170916202142.wav",
+        "source_text": "我过两天回家",
+        "target_text": "请帮我切换到约会模式",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_389.wav",
+        "source_path": "./dev/5_2595/5_2595_20170701135411.wav",
+        "target_path": "./test/38_5718/38_5718_20170915103206.wav",
+        "source_text": "放一下发如雪",
+        "target_text": "肺结核能抽烟吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_390.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/38_5781/38_5781_20170915165650.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "不唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_391.wav",
+        "source_path": "./test/38_5781/38_5781_20170915165529.wav",
+        "target_path": "./dev/5_1932/5_1932_20170628224336.wav",
+        "source_text": "来个张信哲的歌",
+        "target_text": "他自己北京的同学聚聚",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_392.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5753/38_5753_20170916165257.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "叫上星他两口子啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_393.wav",
+        "source_path": "./test/38_5870/38_5870_20170917085725.wav",
+        "target_path": "./test/38_5888/38_5888_20170917205420.wav",
+        "source_text": "播放亲亲猪猪宝贝",
+        "target_text": "播放一仆二主",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_394.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5883/38_5883_20170917134131.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "许嵩的专辑自定义除了网上订购还可以在哪里买到",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_395.wav",
+        "source_path": "./dev/5_2824/5_2824_20170701231410.wav",
+        "target_path": "./test/38_5870/38_5870_20170917091317.wav",
+        "source_text": "因为下雨会影响我家店里的生意",
+        "target_text": "请给我来一首萧敬腾的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_396.wav",
+        "source_path": "./dev/5_1932/5_1932_20170628222522.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "地下交通站",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_397.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5723/38_5723_20170914200322.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "播放你偷走了我的心",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_398.wav",
+        "source_path": "./test/38_5716/38_5716_20170914202647.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630143206.wav",
+        "source_text": "叫他明天早上差五分儿九点去机场",
+        "target_text": "今天天气你播的是哪儿的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_399.wav",
+        "source_path": "./test/38_5735/38_5735_20170916154507.wav",
+        "target_path": "./test/38_5798/38_5798_20170915223847.wav",
+        "source_text": "播放董大为的歌曲",
+        "target_text": "调整座位到正常",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_400.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./test/38_5754/38_5754_20170917215402.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "丁宏伟丁宏",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_401.wav",
+        "source_path": "./test/38_5837/38_5837_20170916203408.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916193409.wav",
+        "source_text": "有一首歌曲歌中我不愿就这样离开",
+        "target_text": "给我播放乔家大院第一集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_402.wav",
+        "source_path": "./test/38_5886/38_5886_20170917193526.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702144643.wav",
+        "source_text": "提醒他后天早上去开会",
+        "target_text": "我在火车上晚上就到北京了是你打的电话吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_403.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./dev/5_2770/5_2770_20170701204912.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "又降温啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_404.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./test/38_5744/38_5744_20170915155850.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "请给我来一个真心英雄",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_405.wav",
+        "source_path": "./test/38_5867/38_5867_20170917094148.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100243.wav",
+        "source_text": "悬疑故事",
+        "target_text": "你老公也是山东的吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_406.wav",
+        "source_path": "./test/38_5858/38_5858_20170917213917.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202446.wav",
+        "source_text": "别吃太多月饼",
+        "target_text": "听音乐不错休闲哈嘻",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_407.wav",
+        "source_path": "./test/38_5889/38_5889_20170917221656.wav",
+        "target_path": "./test/38_5753/38_5753_20170916170113.wav",
+        "source_text": "请给我来一首周华健的专辑",
+        "target_text": "眯眯眯眯眯",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_408.wav",
+        "source_path": "./test/38_5814/38_5814_20170916131843.wav",
+        "target_path": "./dev/5_3039/5_3039_20170702145641.wav",
+        "source_text": "大晴天的打雷了",
+        "target_text": "你把发票的名称发到我手机上",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_409.wav",
+        "source_path": "./test/38_5856/38_5856_20170916203355.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162727.wav",
+        "source_text": "你听写他吧",
+        "target_text": "我只有一个手",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_410.wav",
+        "source_path": "./test/38_5887/38_5887_20170917200611.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "请给我播放神探狄仁杰第一集",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_411.wav",
+        "source_path": "./test/38_5781/38_5781_20170915165529.wav",
+        "target_path": "./test/38_5889/38_5889_20170917221000.wav",
+        "source_text": "来个张信哲的歌",
+        "target_text": "请播一个孙楠最新的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_412.wav",
+        "source_path": "./dev/5_2855/5_2855_20170702130505.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702163230.wav",
+        "source_text": "我怎么我怎么敢不和你聊天",
+        "target_text": "播一个陈升的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_413.wav",
+        "source_path": "./test/38_5837/38_5837_20170916203408.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915101848.wav",
+        "source_text": "有一首歌曲歌中我不愿就这样离开",
+        "target_text": "我想听辛晓琪演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_414.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702163230.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "播一个陈升的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_415.wav",
+        "source_path": "./dev/5_2399/5_2399_20170630160724.wav",
+        "target_path": "./dev/5_2399/5_2399_20170630140210.wav",
+        "source_text": "想听从此以后了",
+        "target_text": "来一首简单爱",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_416.wav",
+        "source_path": "./test/38_5814/38_5814_20170916131843.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915102108.wav",
+        "source_text": "大晴天的打雷了",
+        "target_text": "朵还鼻子不透气啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_417.wav",
+        "source_path": "./test/38_5798/38_5798_20170915235108.wav",
+        "target_path": "./test/38_5890/38_5890_20170918133058.wav",
+        "source_text": "播放逃亡",
+        "target_text": "给我来个沙宝亮的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_418.wav",
+        "source_path": "./dev/5_2770/5_2770_20170701204102.wav",
+        "target_path": "./test/38_5753/38_5753_20170916170113.wav",
+        "source_text": "外边下雨我才不出去",
+        "target_text": "眯眯眯眯眯",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_419.wav",
+        "source_path": "./test/38_5859/38_5859_20170917225122.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628145114.wav",
+        "source_text": "给我播一个赵传唱的歌",
+        "target_text": "放一下紫外线",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_420.wav",
+        "source_path": "./dev/38_5845/38_5845_20170916195546.wav",
+        "target_path": "./dev/5_2309/5_2309_20170630221500.wav",
+        "source_text": "那你一般上网很少有找人聊天吧",
+        "target_text": "室温状态",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_421.wav",
+        "source_path": "./dev/5_3099/5_3099_20170702171731.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701154059.wav",
+        "source_text": "乖结婚怎么样啊",
+        "target_text": "买回来觉得穿着大就可以换个小的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_422.wav",
+        "source_path": "./dev/5_2197/5_2197_20170630184022.wav",
+        "target_path": "./dev/38_5730/38_5730_20170915102909.wav",
+        "source_text": "你问韩平亚",
+        "target_text": "外套",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_423.wav",
+        "source_path": "./test/38_5741/38_5741_20170914205403.wav",
+        "target_path": "./test/38_5734/38_5734_20170914195132.wav",
+        "source_text": "算了，撤回",
+        "target_text": "座位靠前",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_424.wav",
+        "source_path": "./dev/5_1838/5_1838_20170630164214.wav",
+        "target_path": "./dev/37_5622/37_5622_20170914125723.wav",
+        "source_text": "变温室温度调到零下九度档",
+        "target_text": "放大梦想家",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_425.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5725/38_5725_20170914195603.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "你好这音乐是周杰伦蒲公英的商定如知足请采取谜底感谢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_426.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./test/38_5754/38_5754_20170916183616.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "请播一个沙宝亮的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_427.wav",
+        "source_path": "./test/38_5754/38_5754_20170917213653.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202426.wav",
+        "source_text": "我都不是那种骗人的人你说对吗好了晚上再谈吧",
+        "target_text": "除了自命不凡和爱是一种幸福",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_428.wav",
+        "source_path": "./test/38_5837/38_5837_20170916203408.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "有一首歌曲歌中我不愿就这样离开",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_429.wav",
+        "source_path": "./dev/5_3039/5_3039_20170702150100.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202446.wav",
+        "source_text": "老弟别客气",
+        "target_text": "听音乐不错休闲哈嘻",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_430.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./test/38_5722/38_5722_20170915092330.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "来首水木年华演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_431.wav",
+        "source_path": "./dev/5_3099/5_3099_20170702171731.wav",
+        "target_path": "./test/38_5751/38_5751_20170915121525.wav",
+        "source_text": "乖结婚怎么样啊",
+        "target_text": "燕儿昆明下大雪了好冷",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_432.wav",
+        "source_path": "./dev/5_1838/5_1838_20170630164214.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701154059.wav",
+        "source_text": "变温室温度调到零下九度档",
+        "target_text": "买回来觉得穿着大就可以换个小的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_433.wav",
+        "source_path": "./test/38_5870/38_5870_20170917085725.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "播放亲亲猪猪宝贝",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_434.wav",
+        "source_path": "./test/38_5725/38_5725_20170915092358.wav",
+        "target_path": "./test/38_5888/38_5888_20170917201639.wav",
+        "source_text": "播放血色湘西第八集",
+        "target_text": "帮我给记事本加密",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_435.wav",
+        "source_path": "./dev/5_1838/5_1838_20170630164214.wav",
+        "target_path": "./dev/5_2770/5_2770_20170701204912.wav",
+        "source_text": "变温室温度调到零下九度档",
+        "target_text": "又降温啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_436.wav",
+        "source_path": "./test/38_5771/38_5771_20170915132158.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "别说我的眼泪你无所谓竖笛简谱",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_437.wav",
+        "source_path": "./test/38_5744/38_5744_20170915102006.wav",
+        "target_path": "./test/38_5734/38_5734_20170914195132.wav",
+        "source_text": "明天是不是晴天啊",
+        "target_text": "座位靠前",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_438.wav",
+        "source_path": "./dev/37_5622/37_5622_20170914182734.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701155120.wav",
+        "source_text": "嗯那好吧按玲遛",
+        "target_text": "我不会打字啦",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_439.wav",
+        "source_path": "./test/38_5741/38_5741_20170914205403.wav",
+        "target_path": "./dev/5_1812/5_1812_20170628154846.wav",
+        "source_text": "算了，撤回",
+        "target_text": "等我晃你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_440.wav",
+        "source_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "target_path": "./dev/5_2296/5_2296_20170701165102.wav",
+        "source_text": "口口音乐",
+        "target_text": "我去看电影了晚上七点半到科里",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_441.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./test/38_5723/38_5723_20170914202655.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "福建省泉州市的天气",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_442.wav",
+        "source_path": "./test/38_5754/38_5754_20170917213653.wav",
+        "target_path": "./test/38_5870/38_5870_20170917091317.wav",
+        "source_text": "我都不是那种骗人的人你说对吗好了晚上再谈吧",
+        "target_text": "请给我来一首萧敬腾的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_443.wav",
+        "source_path": "./test/38_5734/38_5734_20170914201634.wav",
+        "target_path": "./test/38_5781/38_5781_20170915165650.wav",
+        "source_text": "播放春分",
+        "target_text": "不唱歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_444.wav",
+        "source_path": "./dev/38_5730/38_5730_20170915101446.wav",
+        "target_path": "./test/38_5883/38_5883_20170917134131.wav",
+        "source_text": "请来一首孙燕姿的歌",
+        "target_text": "许嵩的专辑自定义除了网上订购还可以在哪里买到",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_445.wav",
+        "source_path": "./test/38_5753/38_5753_20170916130516.wav",
+        "target_path": "./dev/38_5845/38_5845_20170916163159.wav",
+        "source_text": "我想听一首小山和小岛",
+        "target_text": "内容",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_446.wav",
+        "source_path": "./test/38_5723/38_5723_20170915094323.wav",
+        "target_path": "./test/38_5852/38_5852_20170916202142.wav",
+        "source_text": "你跟工会里的人玩儿啊",
+        "target_text": "请帮我切换到约会模式",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_447.wav",
+        "source_path": "./test/38_5799/38_5799_20170915223504.wav",
+        "target_path": "./test/38_5723/38_5723_20170914203433.wav",
+        "source_text": "就是要远离高温对吧",
+        "target_text": "那浙江的天气呢",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_448.wav",
+        "source_path": "./test/38_5735/38_5735_20170916154507.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202446.wav",
+        "source_text": "播放董大为的歌曲",
+        "target_text": "听音乐不错休闲哈嘻",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_449.wav",
+        "source_path": "./test/38_5741/38_5741_20170914205403.wav",
+        "target_path": "./test/38_5753/38_5753_20170916165257.wav",
+        "source_text": "算了，撤回",
+        "target_text": "叫上星他两口子啊",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_450.wav",
+        "source_path": "./test/38_5722/38_5722_20170915094028.wav",
+        "target_path": "./test/38_5733/38_5733_20170915131052.wav",
+        "source_text": "请给我播放血色浪漫第九集",
+        "target_text": "我也是梅州的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_451.wav",
+        "source_path": "./test/38_5720/38_5720_20170916161122.wav",
+        "target_path": "./test/38_5852/38_5852_20170916200015.wav",
+        "source_text": "是北京丰台区天气吗",
+        "target_text": "来个许嵩演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_452.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100243.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "你老公也是山东的吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_453.wav",
+        "source_path": "./dev/5_2296/5_2296_20170701164037.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701144837.wav",
+        "source_text": "冷不冷几点到家",
+        "target_text": "请给我来首辛晓琪的专辑",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_454.wav",
+        "source_path": "./test/38_5890/38_5890_20170918132905.wav",
+        "target_path": "./test/38_5716/38_5716_20170914202426.wav",
+        "source_text": "请播一个齐豫演唱的歌",
+        "target_text": "除了自命不凡和爱是一种幸福",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_455.wav",
+        "source_path": "./dev/5_2641/5_2641_20170701185451.wav",
+        "target_path": "./test/38_5722/38_5722_20170915092319.wav",
+        "source_text": "你给爸交电话费车票爸有事的钱都是爸掏的爸没要你给爸交电话费",
+        "target_text": "给我播放历史的天空第九集",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_456.wav",
+        "source_path": "./test/38_5799/38_5799_20170915223504.wav",
+        "target_path": "./test/38_5889/38_5889_20170917221000.wav",
+        "source_text": "就是要远离高温对吧",
+        "target_text": "请播一个孙楠最新的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_457.wav",
+        "source_path": "./test/38_5754/38_5754_20170917213653.wav",
+        "target_path": "./test/38_5856/38_5856_20170916201101.wav",
+        "source_text": "我都不是那种骗人的人你说对吗好了晚上再谈吧",
+        "target_text": "我想听后来这首歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_458.wav",
+        "source_path": "./dev/5_2595/5_2595_20170701135411.wav",
+        "target_path": "./test/38_5889/38_5889_20170917221000.wav",
+        "source_text": "放一下发如雪",
+        "target_text": "请播一个孙楠最新的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_459.wav",
+        "source_path": "./test/ttt/clap_16k_epd2.wav",
+        "target_path": "./test/38_5718/38_5718_20170914202638.wav",
+        "source_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "target_text": "最近好烦呀想听抒情悲伤的音乐有谁能推荐几首谢了",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_460.wav",
+        "source_path": "./test/38_5734/38_5734_20170914201634.wav",
+        "target_path": "./dev/5_2525/5_2525_20170701144837.wav",
+        "source_text": "播放春分",
+        "target_text": "请给我来首辛晓琪的专辑",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_461.wav",
+        "source_path": "./test/ttt/602.wav",
+        "target_path": "./test/38_5735/38_5735_20170916162705.wav",
+        "source_text": "与生成系统的训练数据不相交，但从同一个综合数据集划分得到",
+        "target_text": "我不回去吃了老婆宝贝我吃完就回去了谢谢合作我爱你傻宝宝宝宝宝宝宝宝宝贝",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_462.wav",
+        "source_path": "./dev/5_2751/5_2751_20170701222637.wav",
+        "target_path": "./test/38_5852/38_5852_20170916200015.wav",
+        "source_text": "来首无印良品的歌",
+        "target_text": "来个许嵩演唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_463.wav",
+        "source_path": "./test/38_5715/38_5715_20170914193306.wav",
+        "target_path": "./test/38_5794/38_5794_20170916131623.wav",
+        "source_text": "口口音乐",
+        "target_text": "我就要我老婆别的不要",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_464.wav",
+        "source_path": "./test/38_5794/38_5794_20170915220111.wav",
+        "target_path": "./dev/37_5622/37_5622_20170914125723.wav",
+        "source_text": "我想学习弹钢琴但不知从哪学起请问哪位可以指导一下呢",
+        "target_text": "放大梦想家",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_465.wav",
+        "source_path": "./test/38_5739/38_5739_20170914223613.wav",
+        "target_path": "./test/38_5886/38_5886_20170917200357.wav",
+        "source_text": "和你说了好几遍了",
+        "target_text": "一生为你感动",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_466.wav",
+        "source_path": "./test/38_5725/38_5725_20170915092358.wav",
+        "target_path": "./dev/5_2641/5_2641_20170701202308.wav",
+        "source_text": "播放血色湘西第八集",
+        "target_text": "这个可能不够完善",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_467.wav",
+        "source_path": "./dev/5_3039/5_3039_20170702150100.wav",
+        "target_path": "./test/38_5754/38_5754_20170916183616.wav",
+        "source_text": "老弟别客气",
+        "target_text": "请播一个沙宝亮的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_468.wav",
+        "source_path": "./test/38_5771/38_5771_20170915132158.wav",
+        "target_path": "./test/38_5751/38_5751_20170915184336.wav",
+        "source_text": "别说我的眼泪你无所谓竖笛简谱",
+        "target_text": "给我来一个许志安唱的歌",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_469.wav",
+        "source_path": "./test/38_5733/38_5733_20170915110335.wav",
+        "target_path": "./test/ttt/clap_16k_epd2.wav",
+        "source_text": "听听歌曲修今生",
+        "target_text": "黄鹤楼送孟浩然之广陵是唐代大诗人李白创作的一首送别诗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_470.wav",
+        "source_path": "./test/38_5889/38_5889_20170917221656.wav",
+        "target_path": "./test/38_5870/38_5870_20170917091317.wav",
+        "source_text": "请给我来一首周华健的专辑",
+        "target_text": "请给我来一首萧敬腾的歌曲",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_471.wav",
+        "source_path": "./test/38_5741/38_5741_20170914205403.wav",
+        "target_path": "./test/38_5753/38_5753_20170916170113.wav",
+        "source_text": "算了，撤回",
+        "target_text": "眯眯眯眯眯",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_472.wav",
+        "source_path": "./test/38_5721/38_5721_20170915090424.wav",
+        "target_path": "./test/38_5814/38_5814_20170916162649.wav",
+        "source_text": "一分也没了",
+        "target_text": "你们老大真够讨厌的",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_473.wav",
+        "source_path": "./test/38_5867/38_5867_20170917094148.wav",
+        "target_path": "./test/38_5741/38_5741_20170914210259.wav",
+        "source_text": "悬疑故事",
+        "target_text": "谭咏麟今年几岁发过几张专辑有几首单曲开了几场演唱会",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_474.wav",
+        "source_path": "./dev/38_5845/38_5845_20170916195546.wav",
+        "target_path": "./dev/38_5731/38_5731_20170914202006.wav",
+        "source_text": "那你一般上网很少有找人聊天吧",
+        "target_text": "钢琴自学的效率高吗",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_475.wav",
+        "source_path": "./dev/5_2770/5_2770_20170701204102.wav",
+        "target_path": "./dev/5_2824/5_2824_20170702000820.wav",
+        "source_text": "外边下雨我才不出去",
+        "target_text": "播放因为刚好遇见你",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_476.wav",
+        "source_path": "./dev/5_1812/5_1812_20170628143709.wav",
+        "target_path": "./test/38_5883/38_5883_20170917134131.wav",
+        "source_text": "天气变化太快",
+        "target_text": "许嵩的专辑自定义除了网上订购还可以在哪里买到",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_477.wav",
+        "source_path": "./test/38_5751/38_5751_20170914233746.wav",
+        "target_path": "./test/38_5856/38_5856_20170916195411.wav",
+        "source_text": "现在天气冷物理降温要脱衣服吗会不会再受凉啊",
+        "target_text": "那大天朝天气如何",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_478.wav",
+        "source_path": "./dev/5_2525/5_2525_20170701151328.wav",
+        "target_path": "./test/38_5724/38_5724_20170915100228.wav",
+        "source_text": "明天早上七点到北京",
+        "target_text": "但我对她没感觉",
+        "vb_tar_ipa": []
+    },
+    {
+        "uid": "test_479.wav",
+        "source_path": "./test/38_5890/38_5890_20170918132905.wav",
+        "target_path": "./dev/5_3099/5_3099_20170702165822.wav",
+        "source_text": "请播一个齐豫演唱的歌",
+        "target_text": "我都快到了",
+        "vb_tar_ipa": []
+    }
+]
