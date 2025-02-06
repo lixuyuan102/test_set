@@ -1,12 +1,5 @@
 [
     {
-        "uid": "test_aaa.wav",
-        "source_path": "./test/4992/4992-41806-0009.flac",
-        "source_text": "exclaimed Bill Harmon to his wife as they went through the lighted hall.",
-        "target_path": "./test/4992/4992-23283-0000.flac",
-        "target_text": "admired, rioting, fire, tireless, tire, tiresome, esquire, squire"
-    },
-    {
         "uid": "test_0.wav",
         "source_path": "./test/4992/4992-41806-0009.flac",
         "source_text": "exclaimed Bill Harmon to his wife as they went through the lighted hall.",
